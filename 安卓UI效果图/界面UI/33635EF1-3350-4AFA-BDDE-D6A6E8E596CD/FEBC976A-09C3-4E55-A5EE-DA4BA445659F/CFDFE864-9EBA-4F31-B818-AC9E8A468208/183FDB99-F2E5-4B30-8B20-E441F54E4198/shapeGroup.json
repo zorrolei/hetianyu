@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 369.9999999999999,
+    "height": 240.8065877709838,
     "width": 285.0000000000001,
     "x": 15,
     "y": 6
@@ -77,6 +77,14 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "183FDB99-F2E5-4B30-8B20-E441F54E4198"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "183FDB99-F2E5-4B30-8B20-E441F54E4198"
+    }
   },
   "windingRule": 1
 }

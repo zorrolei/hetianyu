@@ -24,7 +24,7 @@
     "height": 68,
     "width": 281,
     "x": 13,
-    "y": 70
+    "y": 77
   },
   "glyphBounds": "{{0, 0}, {268, 66}}",
   "heightIsClipped": false,
@@ -60,5 +60,10 @@
       }
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "12CB6A32-D2C6-4ED8-BA40-86F6C49FA854"
+    }
+  }
 }
