@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "6B76968C-4E45-4574-AB3F-B06C6497F8E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6A4DDA27-B7F5-4F06-9EFA-18A1D1E6734A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2AEC3025-BCCC-4696-8D3B-CF1163EC4264"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE19FDD4-E5DA-44A8-934B-770D4B5542B8"
+    },
+    {
+      "class": "group",
+      "id": "77DB384B-623D-4D4E-B7F4-0EA47F6995C4"
+    },
+    {
+      "class": "group",
+      "id": "0A9F5114-E4BD-42BF-BB9E-8536849E9129"
+    }
+  ],
+  "name": "标题",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "063D6BB1-574F-4F8D-8099-EEA77179CCD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -1371,
+    "y": -1399
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F2E774C7-628F-48D6-9FD2-1FE5903C4CF4"
+    },
+    {
+      "class": "group",
+      "id": "4509D27E-B697-456A-A7CE-C78962790F9D"
+    },
+    {
+      "class": "group",
+      "id": "D4A703AA-B3B8-4690-865B-0CC0002E5411"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1E9B6EA-95E7-421A-A3C1-406575F02579"
+    },
+    {
+      "class": "text",
+      "id": "B34E281E-8279-4D8A-BBA1-7C7A3F1E37B6"
+    },
+    {
+      "class": "group",
+      "id": "88B3F7C7-06F7-42C0-B7AA-138FAAD813C5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E62F199-3357-4FFD-8A42-2D1CB88B20D2"
+    },
+    {
+      "class": "group",
+      "id": "3D7C32CF-B341-4711-BD4D-97334F97FEBF"
+    },
+    {
+      "class": "group",
+      "id": "11F84278-BA63-49E9-AA08-060DA5B9C3AF"
+    },
+    {
+      "class": "group",
+      "id": "4318BE46-B377-4260-9586-5BD3174F7361"
+    },
+    {
+      "class": "group",
+      "id": "942F011D-C5DF-418D-9096-AF982C75D64B"
+    },
+    {
+      "class": "group",
+      "id": "2907ED50-0B2B-471F-81AA-FF144316EA25"
+    },
+    {
+      "class": "group",
+      "id": "79AE277E-EF9E-43E3-9A44-EA43ED1D81DB"
+    },
+    {
+      "class": "group",
+      "id": "E995B9A1-7D2E-4070-9B54-054EBD575376"
+    },
+    {
+      "class": "group",
+      "id": "4AF03ADD-F506-4371-84C9-65AC85A602CA"
+    },
+    {
+      "class": "group",
+      "id": "FCD4B5BD-7BCD-41BE-9D1C-4BC616B150AF"
+    },
+    {
+      "class": "group",
+      "id": "EBF5B587-B065-4A3A-AFC5-FFB8134E7171"
+    },
+    {
+      "class": "group",
+      "id": "4E96F6D2-CE49-411E-8B6E-C103F095A21E"
+    }
+  ],
+  "name": "商品分类",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
