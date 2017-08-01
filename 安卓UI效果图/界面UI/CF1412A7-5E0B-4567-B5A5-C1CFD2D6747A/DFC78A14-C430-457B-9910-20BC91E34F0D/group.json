@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "DFC78A14-C430-457B-9910-20BC91E34F0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 108,
+    "width": 375,
+    "x": 0,
+    "y": 445
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "57DFD692-4698-4082-B949-8857BEC5AF84"
+    },
+    {
+      "class": "group",
+      "id": "42BC2011-2017-4427-8712-678557B52370"
+    },
+    {
+      "class": "group",
+      "id": "F61FD868-537F-4277-83B1-5CC55D4570C5"
+    },
+    {
+      "class": "text",
+      "id": "25403E97-1D64-4E4A-8B08-FA68BBBA0414"
+    },
+    {
+      "class": "text",
+      "id": "FFEC2056-9688-4FDA-92F4-16C2351211C3"
+    },
+    {
+      "class": "group",
+      "id": "1FA35B79-1651-4358-A897-236F70733A06"
+    }
+  ],
+  "name": "收藏的宝贝 copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "F826410E-3221-40EA-A574-50AF4E59CD39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15,
+    "width": 95,
+    "x": 6,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4A7319AE-771B-4EB3-BEB2-9D10F3CD47DD"
+    },
+    {
+      "class": "text",
+      "id": "C7AC476C-A7A7-4C91-A856-0FC97F1263F4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D5546A6E-AD93-4274-8C70-ED809BCFAB3C"
+    }
+  ],
+  "name": "Pin Left",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

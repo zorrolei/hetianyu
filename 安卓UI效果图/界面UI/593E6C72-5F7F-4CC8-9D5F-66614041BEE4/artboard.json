@@ -1,0 +1,139 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "593E6C72-5F7F-4CC8-9D5F-66614041BEE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 360,
+    "x": -143,
+    "y": -1415
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "780B0AFF-464D-481F-A662-0B0ED4161CBF"
+    },
+    {
+      "class": "text",
+      "id": "D62C7947-D36A-4BB0-B2D1-B439E8B89378"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D23DE9F-4BC3-4FEF-B63D-F05DF0672E95"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0159C013-FAF6-4575-8FFF-5CF61326B0D2"
+    },
+    {
+      "class": "group",
+      "id": "69610E23-A5CF-49A7-A570-5C00593AE02C"
+    },
+    {
+      "class": "group",
+      "id": "D48EBDF0-0F16-4C81-BEE7-3337D178065C"
+    },
+    {
+      "class": "group",
+      "id": "3C4698F8-9FD3-436F-AA4B-F2CC6F0623D2"
+    },
+    {
+      "class": "group",
+      "id": "F0B379E2-7688-4664-885B-A6A4BF51B51A"
+    },
+    {
+      "class": "group",
+      "id": "3A6CAF4E-D25B-4531-BCC2-0937480ED210"
+    },
+    {
+      "class": "group",
+      "id": "3C204A26-7E6C-4F8E-BF39-F1140BC45437"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "413EEA62-A91C-4FD8-9BFC-DB320744C3BA"
+    },
+    {
+      "class": "group",
+      "id": "8EAA9DB7-8A20-4EEE-9135-D6CC9206222B"
+    }
+  ],
+  "name": "个人中心-设置-清除缓存",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

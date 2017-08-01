@@ -1,0 +1,127 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "4CFC7DDE-AEF9-45CD-BCE9-32D13984961E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 360,
+    "x": 807,
+    "y": 541
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "36A459FF-E63F-4F56-8EB3-67418736CEF6"
+    },
+    {
+      "class": "text",
+      "id": "CF972414-BF0A-47F8-99D4-935B72063BCE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "916E428C-0047-4D89-99D1-514EC21403B8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "87DD4A71-9327-4FD1-A873-DE8ED797AB9C"
+    },
+    {
+      "class": "group",
+      "id": "58EFAA6F-749C-4F73-AF90-53D69330A2BD"
+    },
+    {
+      "class": "text",
+      "id": "BEE90CF4-FD84-4ACC-BA1D-0FBF1B93C9EC"
+    },
+    {
+      "class": "group",
+      "id": "F3C72B54-2DA4-49A4-9D37-D34716524247"
+    },
+    {
+      "class": "group",
+      "id": "EC014F75-2A50-459E-8A8E-71727B9D792D"
+    },
+    {
+      "class": "group",
+      "id": "6508B2A0-8646-4E83-8E91-0988C3CE8C64"
+    }
+  ],
+  "name": "个人中心-消息列表",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

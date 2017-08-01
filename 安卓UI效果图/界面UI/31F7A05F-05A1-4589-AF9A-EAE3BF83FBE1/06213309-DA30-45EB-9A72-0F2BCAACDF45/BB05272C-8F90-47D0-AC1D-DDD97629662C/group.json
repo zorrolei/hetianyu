@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "BB05272C-8F90-47D0-AC1D-DDD97629662C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 167,
+    "x": 10,
+    "y": 11
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1A28BB39-5C4B-4BC5-90D8-A637C65A692D"
+    },
+    {
+      "class": "group",
+      "id": "B1095971-CF8F-4E08-8381-E517FC14B7FF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DDD392B1-B7F1-47FC-8DCE-D20471348CEC"
+    },
+    {
+      "class": "text",
+      "id": "C5C8C069-C41E-4A3A-AEA3-6CFA30ECB1E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CDCA6BAE-25B2-4610-8232-A6FB4D741A03"
+    }
+  ],
+  "name": "上一件",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

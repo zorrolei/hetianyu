@@ -1,0 +1,45 @@
+{
+  "_class": "group",
+  "do_objectID": "F1C5EDBF-6DA2-486C-9B1C-FAB9BE6CEB67",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 25.89285714285714,
+    "width": 26.78571428571429,
+    "x": 11.60714285714286,
+    "y": 11.60714285714286
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5BAD9312-DCA0-4C75-A0C8-BD22FAFD8F8B"
+    }
+  ],
+  "name": "QQ空间",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "4FE2E653-69BE-4925-99A3-A307C92FC523",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 360,
+    "x": 1757,
+    "y": -1415
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9FA46072-CE6B-46E2-8F14-9BF14E307DBC"
+    },
+    {
+      "class": "group",
+      "id": "85466BFD-6EDB-4293-B49B-57CC9AAEA23B"
+    },
+    {
+      "class": "group",
+      "id": "47CE62DF-021F-4C25-B22B-EA6A2065352E"
+    },
+    {
+      "class": "group",
+      "id": "88BBF576-B177-48BF-AC26-494AF20A4A3E"
+    },
+    {
+      "class": "text",
+      "id": "EEEDEF37-FF07-418B-92CB-F61A0424562B"
+    },
+    {
+      "class": "group",
+      "id": "7C5A8025-5764-479B-B653-654ABF3C42A5"
+    },
+    {
+      "class": "group",
+      "id": "76E231D9-FE43-4366-9A32-C3F7F15975A7"
+    },
+    {
+      "class": "group",
+      "id": "D043CD8B-6EE0-4785-B65E-554EE4E6BD7E"
+    }
+  ],
+  "name": "红包卡券-未使用",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

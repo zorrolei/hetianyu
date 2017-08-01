@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGY2RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNTw/QkVJUVJTVFVZXV9VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANmADEANQAwADAAMFFD0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAuAD4AXV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdQgISIKIyQlJlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjg3ODQzMTM3MjUgMC4xOTIxNTY4NjI3IDAuMTkyMTU2ODYyNwAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHUNjc4Cjk6JDtaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9ugACADIAO0hIKPT6ggA3SLC1AQVdOU0FycmF5okAx0iwtQ0RfEBBOU1BhcmFncmFwaFN0eWxlokMx0gpGR0hfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AWgBDTERIKSk1QoktMgBGAEqJOT4ATgBSAFV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AoAAAAAAAAXxASUGluZ0ZhbmdTQy1SZWd1bGFy0iwtVldfEBNOU011dGFibGVEaWN0aW9uYXJ5o1ZYMVxOU0RpY3Rpb25hcnnSLC1aW18QEE5TRm9udERlc2NyaXB0b3KiXDFfEBBOU0ZvbnREZXNjcmlwdG9y0iwtWF6iWDHSLC1gYV8QEk5TQXR0cmlidXRlZFN0cmluZ6JiMV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFlZlRyb290gAEACAARABoAIwAtADIANwBTAFkAYABpAHAAfQB/AIEAgwCQAJcAnwCqAK4AsACyALQAuAC6ALwAvgDAAMgA2wD9AQYBDAEZAS4BWAFaAVwBXgFjAWgBagFsAXEBfAGFAZIBlQGiAasBsAG4AbsBxAHPAdwB/gIAAgICBAIJAgoCDAIRAhkCHAIhAjQCNwI8AlkCWwJdAmQCZwJpAmsCbgJwAnICdAKKAqACqQK+AsMC2QLdAuoC7wMCAwUDGAMdAyADJQM6Az0DUgNkA2cDbAAAAAAAAAIBAAAAAAAAAGcAAAAAAAAAAAAAAAAAAANu"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "33FC3E20-D370-42AA-B110-BEE00DFB8E86",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 79,
+    "x": 14,
+    "y": 190
+  },
+  "glyphBounds": "{{0, 0}, {45, 15}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "15000元",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "0B928229-3559-4FEF-9EAF-9A93ABE328D8"
+  },
+  "textBehaviour": 1
+}

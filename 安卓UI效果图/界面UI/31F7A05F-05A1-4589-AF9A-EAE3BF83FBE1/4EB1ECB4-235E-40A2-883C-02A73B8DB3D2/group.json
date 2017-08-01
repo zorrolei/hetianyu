@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "4EB1ECB4-235E-40A2-883C-02A73B8DB3D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 167,
+    "x": 185,
+    "y": 2058
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ED6E837A-A695-4E50-A427-A523C199AFC3"
+    },
+    {
+      "class": "text",
+      "id": "C6F29E75-9BBD-48DF-A9F0-CEC39284467A"
+    }
+  ],
+  "name": "联系按钮",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

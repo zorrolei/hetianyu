@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "39AF1D26-6E94-4E34-8B4F-8FCC962661D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 360,
+    "x": 807,
+    "y": -1415
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3F290645-DC9D-4DDF-B152-DD6839DFD4DE"
+    },
+    {
+      "class": "text",
+      "id": "B63EB6B1-CED7-463F-B5D7-5292EC8D3798"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB5CD8E1-07EF-4B9D-BB4F-1E1EAF07506C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2917D5D9-8CBF-4B5A-AE54-C8C12142D3F6"
+    },
+    {
+      "class": "group",
+      "id": "89182E67-166F-464B-AE67-357851B50051"
+    },
+    {
+      "class": "group",
+      "id": "AAC62230-4B8B-46F4-BAFA-994080F2F8D8"
+    },
+    {
+      "class": "group",
+      "id": "E7A55938-5D78-484C-A462-DD9A5ECD7AF4"
+    },
+    {
+      "class": "group",
+      "id": "9FEC6337-E680-4F98-9810-73059DF26C22"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1EF7BE43-50D9-42C7-8948-F2B93AB16B5A"
+    },
+    {
+      "class": "group",
+      "id": "09E6F96A-B78B-4DE3-B62A-35C85B9300E9"
+    }
+  ],
+  "name": "个人中心-设置-账号设置-修改头像",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
