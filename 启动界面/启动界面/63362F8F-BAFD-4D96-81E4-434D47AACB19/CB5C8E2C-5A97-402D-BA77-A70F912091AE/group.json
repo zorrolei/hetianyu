@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "CB5C8E2C-5A97-402D-BA77-A70F912091AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 73,
+    "width": 73,
+    "x": 124.5,
+    "y": 381.5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "53DF4375-477B-4329-BE33-64195ADBA4F6"
+    },
+    {
+      "class": "bitmap",
+      "id": "331F5D94-309F-4BB3-9992-9CA2E2AFBCF8"
+    }
+  ],
+  "name": "iTunesArtwork@3x",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
