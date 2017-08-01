@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "599F599B-940F-454D-893D-2B1032A76779",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 97,
+    "width": 375,
+    "x": 0,
+    "y": 336
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F1719719-3827-43BD-96AC-BCE859636D5A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02C2D3C7-1495-4136-B69F-90C80DE46C7A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9A3EC80F-B7E3-4469-8BD4-2EE1092A097B"
+    },
+    {
+      "class": "text",
+      "id": "ECC6F720-8B0C-4D26-A282-8399EC4175E3"
+    },
+    {
+      "class": "text",
+      "id": "DAFA5BDE-1A04-4AFF-A094-303C3AFBAE61"
+    },
+    {
+      "class": "text",
+      "id": "80EE9F55-966D-4219-B7DA-0D8BD9A14104"
+    }
+  ],
+  "name": "关于我们图片",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_class": "page",
+  "do_objectID": "496DBB35-7E64-4D93-815D-69A66F75E10C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -851,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "D536080A-F629-4C65-80E0-611BCA9182E0"
+    },
+    {
+      "class": "artboard",
+      "id": "346C02D3-1344-4DEA-9098-A312F17596A8"
+    },
+    {
+      "class": "artboard",
+      "id": "59C35E52-23B9-4F21-BCF8-7F43A2601824"
+    },
+    {
+      "class": "artboard",
+      "id": "D1DD15FC-0985-4B9D-AEDB-CD882A53961C"
+    },
+    {
+      "class": "artboard",
+      "id": "B132A53B-019E-4C58-95B8-7664AE9EFBB8"
+    },
+    {
+      "class": "artboard",
+      "id": "1EBB8DC0-C4CB-4B58-A0CE-C90A7FB435B6"
+    }
+  ],
+  "name": "应用市场截图",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -520,
+    "guides": [
+    ]
+  }
+}

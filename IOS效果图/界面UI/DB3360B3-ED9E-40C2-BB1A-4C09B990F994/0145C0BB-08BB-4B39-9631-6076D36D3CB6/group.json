@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "0145C0BB-08BB-4B39-9631-6076D36D3CB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 39,
+    "width": 375,
+    "x": 0,
+    "y": 64
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "014D6562-0864-40A6-A52E-433CFD9AE56A"
+    },
+    {
+      "class": "text",
+      "id": "77387951-A081-4230-AF69-5D9C77144C22"
+    },
+    {
+      "class": "text",
+      "id": "EFC83B81-FBF5-4A00-9C1D-029267B22382"
+    },
+    {
+      "class": "text",
+      "id": "1DE384C7-9229-45F0-9D19-63583D5B2264"
+    },
+    {
+      "class": "text",
+      "id": "FADE89C6-D56A-42AD-989A-8D3EB234C9C4"
+    }
+  ],
+  "name": "二级导航栏",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

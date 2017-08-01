@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "ACF5EE46-CF87-4053-A80D-8448B6EEE4B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 57.5712143928036,
+    "width": 57.5712143928036,
+    "x": 57.5712143928036,
+    "y": 30.70464767616192
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BD3E1C23-F54B-4B14-BC70-2FEDF109BE09"
+    },
+    {
+      "class": "slice",
+      "id": "7E2FCE8B-258C-4527-A395-90C335138939"
+    }
+  ],
+  "name": "首页-首页-2 copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 19.1904047976012,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "F4572986-9555-4B70-9F7C-8AA7260F986E"
+    }
+  }
+}

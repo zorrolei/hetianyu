@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "EAEA2C49-DA1D-4FC8-AC5D-FB3ADE4D8C7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 64,
+    "x": 184,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B79AB5A8-E67B-4AA8-9976-B4E3C297D817"
+    },
+    {
+      "class": "text",
+      "id": "A90ABEDE-2456-48C8-813B-32AC7AAC9D45"
+    }
+  ],
+  "name": "碧玉",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

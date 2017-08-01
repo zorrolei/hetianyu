@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "D9E933FA-6EDE-4CAF-9454-01DDC8A0404F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 57.5712143928036,
+    "width": 57.5712143928036,
+    "x": 201.4992503748126,
+    "y": 30.70464767616192
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "283463A9-9179-4712-BF9A-C3DACF4EDDD3"
+    },
+    {
+      "class": "slice",
+      "id": "8D16A9CF-0FE0-4ED0-BEA4-2FD5005D27AD"
+    }
+  ],
+  "name": "客服-2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 19.1904047976012,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "CDF8F68F-856B-4301-A929-760BE2A562DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 172,
+    "x": 10,
+    "y": 480
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5BF7ED79-846E-4446-A433-329B0F656E13"
+    },
+    {
+      "class": "group",
+      "id": "094AD213-7921-414A-AC7B-16D6ED8F9B44"
+    },
+    {
+      "class": "group",
+      "id": "AB25B4C1-7C8C-428C-B43F-2307B6918630"
+    },
+    {
+      "class": "group",
+      "id": "E0176FDA-E208-4FF9-82A5-22E2541D966B"
+    },
+    {
+      "class": "text",
+      "id": "A21178CF-3C0F-4691-957F-1DCCC78B8FEF"
+    },
+    {
+      "class": "text",
+      "id": "37D5E005-B3B1-4480-B9C3-974E0E735E41"
+    }
+  ],
+  "name": "产品图",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

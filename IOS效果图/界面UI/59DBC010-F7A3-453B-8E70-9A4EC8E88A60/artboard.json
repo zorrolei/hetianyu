@@ -1,0 +1,147 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "59DBC010-F7A3-453B-8E70-9A4EC8E88A60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 1959,
+    "y": -633
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "ACC8F3B0-C572-4823-90FB-FD4FB8CD1A44"
+    },
+    {
+      "class": "group",
+      "id": "599F599B-940F-454D-893D-2B1032A76779"
+    },
+    {
+      "class": "group",
+      "id": "69D0B3F0-A146-4CD9-AC7C-56FB25E4188F"
+    },
+    {
+      "class": "group",
+      "id": "9EFB7762-FC20-47C2-B2EB-B4409B09DAEA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "602A5E66-1166-4BFF-AE8D-25FDB7BCD61B"
+    },
+    {
+      "class": "group",
+      "id": "00DB2DD1-0ECD-47C2-A2B1-7A393CAC3848"
+    },
+    {
+      "class": "group",
+      "id": "DD8DEBBC-FC8F-41EF-ACF2-4FCD8525446C"
+    },
+    {
+      "class": "group",
+      "id": "35B6EF73-A4DF-418F-82D7-958A1089244B"
+    },
+    {
+      "class": "group",
+      "id": "095D4CFF-2DE4-41DE-AF7C-6DC99B03050D"
+    },
+    {
+      "class": "text",
+      "id": "FC5BEC9A-EE72-4628-8F9C-D4647353F73E"
+    },
+    {
+      "class": "group",
+      "id": "206662E6-6AAF-4C78-860A-349C487E6FFB"
+    },
+    {
+      "class": "group",
+      "id": "A3ED2CFD-B533-4104-82DA-1A1CE0CB1922"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0A8417B-729D-474C-A690-234E4C34155A"
+    },
+    {
+      "class": "group",
+      "id": "CE241393-D18A-4BAB-AFDF-7CCF7B3661FB"
+    }
+  ],
+  "name": "左氏按钮弹出效果",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

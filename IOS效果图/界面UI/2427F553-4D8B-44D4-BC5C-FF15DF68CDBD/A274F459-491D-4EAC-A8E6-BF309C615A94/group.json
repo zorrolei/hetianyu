@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "A274F459-491D-4EAC-A8E6-BF309C615A94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 164,
+    "width": 260,
+    "x": 58,
+    "y": 252
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E0BB83E8-D309-4815-90C9-669249B8FAFB"
+    },
+    {
+      "class": "text",
+      "id": "0CFCBF6D-ADD9-4EFB-B9FF-D9A31F02EBB0"
+    },
+    {
+      "class": "text",
+      "id": "7A490263-B8F4-4FD8-AC81-D93EF3A3E7FB"
+    },
+    {
+      "class": "text",
+      "id": "AE59F106-375B-41F5-8BBE-CF543665E2CE"
+    }
+  ],
+  "name": "弹窗",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
