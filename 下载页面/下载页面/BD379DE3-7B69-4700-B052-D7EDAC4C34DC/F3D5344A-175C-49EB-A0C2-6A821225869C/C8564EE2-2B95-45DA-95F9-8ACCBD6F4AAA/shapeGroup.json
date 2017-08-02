@@ -82,5 +82,10 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "C8564EE2-2B95-45DA-95F9-8ACCBD6F4AAA"
+    }
+  },
   "windingRule": 1
 }

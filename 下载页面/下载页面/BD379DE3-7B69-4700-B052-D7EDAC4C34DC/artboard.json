@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 5000,
+    "height": 4304,
     "width": 1920,
     "x": 141,
     "y": 113
@@ -43,23 +43,23 @@
   "layers": [
     {
       "class": "group",
-      "id": "196471CB-C30A-4E27-A6E3-B7015F8C3531"
-    },
-    {
-      "class": "bitmap",
-      "id": "BF11E5F5-4D58-4AC8-B54C-6571154DA085"
-    },
-    {
-      "class": "text",
-      "id": "B8AD01DA-FBD4-4941-A5D5-2F72A7631CA9"
-    },
-    {
-      "class": "text",
-      "id": "C8E8689E-A360-43BF-B0AA-4129D5145015"
+      "id": "FEB7C5D3-EFCC-4825-9EF9-475BE3C35D4C"
     },
     {
       "class": "group",
       "id": "F3D5344A-175C-49EB-A0C2-6A821225869C"
+    },
+    {
+      "class": "group",
+      "id": "6BE58881-A3A6-494F-AAE6-E80862813FCC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "399C73DA-7D15-4E21-8021-80DD4D3E7EBF"
+    },
+    {
+      "class": "text",
+      "id": "4AD64969-4225-4BC7-8982-18F7BEB20711"
     }
   ],
   "name": "Artboard",
@@ -74,6 +74,14 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "BD379DE3-7B69-4700-B052-D7EDAC4C34DC"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "BD379DE3-7B69-4700-B052-D7EDAC4C34DC"
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
