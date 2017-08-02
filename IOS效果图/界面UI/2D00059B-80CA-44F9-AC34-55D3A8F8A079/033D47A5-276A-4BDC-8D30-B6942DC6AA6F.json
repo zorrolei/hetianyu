@@ -26,7 +26,7 @@
     "x": 151,
     "y": 416
   },
-  "glyphBounds": "{{0, 0}, {45, 15}}",
+  "glyphBounds": "{{2, 1}, {70, 34}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -36,7 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "01 自主产区",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

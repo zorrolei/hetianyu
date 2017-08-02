@@ -26,12 +26,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "A745157D-ABAB-4A69-B35B-89BD3A442840"
-    },
-    {
-      "class": "bitmap",
-      "id": "F6CA9D40-8FEA-4A0C-B4AB-3CE42E74EC2C"
+      "class": "group",
+      "id": "FC4E2604-B9ED-47AD-BC70-4BAA5D1BAE4D"
     },
     {
       "class": "group",

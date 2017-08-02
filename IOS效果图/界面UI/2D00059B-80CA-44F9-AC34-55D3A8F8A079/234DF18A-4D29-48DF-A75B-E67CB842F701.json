@@ -21,12 +21,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 65.99999999999999,
+    "height": 66,
     "width": 355,
     "x": 10,
     "y": 1173
   },
-  "glyphBounds": "{{0, 0}, {956, 23}}",
+  "glyphBounds": "{{0, 6}, {343, 56}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -34,7 +34,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "左氏不仅坚持向客户提供一手原创的和田玉产 copy",
+  "name": "左氏不仅坚持向客户提供一手原创的和田玉产",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

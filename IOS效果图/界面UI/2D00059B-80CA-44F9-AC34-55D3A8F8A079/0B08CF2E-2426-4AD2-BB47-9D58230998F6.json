@@ -26,7 +26,7 @@
     "x": 151,
     "y": 655
   },
-  "glyphBounds": "{{0, 0}, {47, 15}}",
+  "glyphBounds": "{{0, 1}, {73, 35}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -36,7 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "02 货源充足",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
