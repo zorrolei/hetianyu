@@ -1,7 +1,7 @@
 {
   "_class": "rectangle",
   "booleanOperation": -1,
-  "do_objectID": "E67B1764-EE99-4740-9C2A-61E087724C2B",
+  "do_objectID": "2B49AF35-2F6D-46E2-AE3B-5BD9372525D9",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -12,12 +12,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 8,
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 216.376333772972,
+    "height": 989.0000000000017,
+    "width": 1920,
     "x": 0,
     "y": 0
   },
@@ -32,11 +32,11 @@
   "path": {
     "_class": "path",
     "isClosed": true,
-    "pointRadiusBehaviour": 0,
+    "pointRadiusBehaviour": 1,
     "points": [
       {
         "_class": "curvePoint",
-        "cornerRadius": 8,
+        "cornerRadius": 0,
         "curveFrom": "{0, 0}",
         "curveMode": 1,
         "curveTo": "{0, 0}",
@@ -46,7 +46,7 @@
       },
       {
         "_class": "curvePoint",
-        "cornerRadius": 8,
+        "cornerRadius": 0,
         "curveFrom": "{1, 0}",
         "curveMode": 1,
         "curveTo": "{1, 0}",
@@ -56,7 +56,7 @@
       },
       {
         "_class": "curvePoint",
-        "cornerRadius": 8,
+        "cornerRadius": 0,
         "curveFrom": "{1, 1}",
         "curveMode": 1,
         "curveTo": "{1, 1}",
@@ -66,7 +66,7 @@
       },
       {
         "_class": "curvePoint",
-        "cornerRadius": 8,
+        "cornerRadius": 0,
         "curveFrom": "{0, 1}",
         "curveMode": 1,
         "curveTo": "{0, 1}",

@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -26,7 +35,7 @@
     "y": 113
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -59,7 +68,35 @@
     },
     {
       "class": "text",
+      "id": "E6941C68-6BC0-4600-B91B-2AD9032DB139"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9038AAE2-36FA-4702-A256-7BDA84A119ED"
+    },
+    {
+      "class": "group",
+      "id": "C339434F-483E-4D13-A1AD-4C89F57A08C0"
+    },
+    {
+      "class": "bitmap",
+      "id": "129B0F55-A4AC-4DA3-AFC3-1BD3E717B228"
+    },
+    {
+      "class": "text",
+      "id": "7721B645-2CC8-4B58-AF53-96A2C626B509"
+    },
+    {
+      "class": "text",
       "id": "4AD64969-4225-4BC7-8982-18F7BEB20711"
+    },
+    {
+      "class": "text",
+      "id": "2910E790-71F0-484F-A3F6-E0839FDEC6BE"
+    },
+    {
+      "class": "group",
+      "id": "9899BFD8-F397-4C7D-B318-179BCD2A555B"
     }
   ],
   "name": "Artboard",

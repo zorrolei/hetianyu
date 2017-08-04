@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "8BF7F486-9DA6-44AC-B346-0B7FE098C0CC",
+  "do_objectID": "C2479EFA-6DE8-45BD-8D4B-45190E76D11C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,29 +14,29 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 34.28447126517868,
-    "width": 29.9907662645514,
+    "height": 112,
+    "width": 358,
     "x": 0,
     "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFlippedHorizontal": false,
-  "isFlippedVertical": false,
+  "isFlippedVertical": true,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
-      "id": "75408BF8-D429-4DC1-B585-B7A1080EF13B"
+      "id": "505486DF-9DFB-4317-A11C-E157855B703F"
     },
     {
       "class": "shapePath",
-      "id": "236EE595-E37A-4011-88EA-F609DE718AEA"
+      "id": "ED67EA32-AF31-4B0A-8E1F-988F5234A70C"
     }
   ],
-  "name": "Shape",
+  "name": "Combined Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -44,13 +44,37 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 15,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 0
+      }
+    ],
     "endDecorationType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.2300000041723251,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -66,5 +90,5 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "windingRule": 0
+  "windingRule": 1
 }
