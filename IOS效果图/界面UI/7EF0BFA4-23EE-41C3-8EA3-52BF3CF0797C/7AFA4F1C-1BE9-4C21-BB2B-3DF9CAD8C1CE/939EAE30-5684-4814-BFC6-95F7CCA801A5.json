@@ -26,7 +26,7 @@
     "x": 89,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {100, 11}}",
+  "glyphBounds": "{{2, 2}, {98, 10}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -36,7 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "2017-06-06 14:35",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

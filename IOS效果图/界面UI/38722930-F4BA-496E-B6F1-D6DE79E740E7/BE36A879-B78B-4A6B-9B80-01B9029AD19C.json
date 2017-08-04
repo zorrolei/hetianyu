@@ -26,7 +26,7 @@
     "x": 125,
     "y": 304
   },
-  "glyphBounds": "{{0, 0}, {126, 17}}",
+  "glyphBounds": "{{0, 3}, {126, 14}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -36,7 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "选择要分享到的平台",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

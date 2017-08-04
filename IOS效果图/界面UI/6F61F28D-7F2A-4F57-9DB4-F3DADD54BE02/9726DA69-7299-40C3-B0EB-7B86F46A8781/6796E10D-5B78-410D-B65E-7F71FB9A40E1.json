@@ -26,7 +26,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {40, 15}}",
+  "glyphBounds": "{{0, 3}, {40, 12}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -36,7 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "结缘价：",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

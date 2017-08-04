@@ -26,7 +26,7 @@
     "x": 28,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {85, 17}}",
+  "glyphBounds": "{{1, 3}, {84, 14}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -36,7 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "“玉”见有缘人",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
