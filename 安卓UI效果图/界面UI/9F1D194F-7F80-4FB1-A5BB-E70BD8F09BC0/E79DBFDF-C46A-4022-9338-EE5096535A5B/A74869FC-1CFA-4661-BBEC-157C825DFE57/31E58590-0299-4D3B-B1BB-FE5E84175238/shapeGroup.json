@@ -1,10 +1,55 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "EA58DAE8-3A59-423E-9F59-6A3ADA8D456F",
+  "do_objectID": "31E58590-0299-4D3B-B1BB-FE5E84175238",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -29,14 +74,14 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "515C357C-90C6-4B39-B0A1-AD7762D2EC7A"
+      "id": "0A3CFC7E-4470-4D71-A359-B2D772516E34"
     },
     {
       "class": "oval",
-      "id": "4813066F-EB0B-4B31-9F92-858438A9E800"
+      "id": "93A3F39B-0ACB-4C98-B279-AB10CD17E934"
     }
   ],
-  "name": "Combined Shape",
+  "name": "tab_zuo_icon_bg",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -81,6 +126,11 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "31E58590-0299-4D3B-B1BB-FE5E84175238"
+    }
   },
   "windingRule": 1
 }
