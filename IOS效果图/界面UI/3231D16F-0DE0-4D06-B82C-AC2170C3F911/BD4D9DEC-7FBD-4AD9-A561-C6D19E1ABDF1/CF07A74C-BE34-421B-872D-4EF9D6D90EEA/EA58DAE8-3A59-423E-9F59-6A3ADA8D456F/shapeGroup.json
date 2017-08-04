@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "31E58590-0299-4D3B-B1BB-FE5E84175238",
+  "do_objectID": "EA58DAE8-3A59-423E-9F59-6A3ADA8D456F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -29,11 +29,11 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "0A3CFC7E-4470-4D71-A359-B2D772516E34"
+      "id": "515C357C-90C6-4B39-B0A1-AD7762D2EC7A"
     },
     {
       "class": "oval",
-      "id": "93A3F39B-0ACB-4C98-B279-AB10CD17E934"
+      "id": "4813066F-EB0B-4B31-9F92-858438A9E800"
     }
   ],
   "name": "Combined Shape",
@@ -81,6 +81,11 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "EA58DAE8-3A59-423E-9F59-6A3ADA8D456F"
+    }
   },
   "windingRule": 1
 }

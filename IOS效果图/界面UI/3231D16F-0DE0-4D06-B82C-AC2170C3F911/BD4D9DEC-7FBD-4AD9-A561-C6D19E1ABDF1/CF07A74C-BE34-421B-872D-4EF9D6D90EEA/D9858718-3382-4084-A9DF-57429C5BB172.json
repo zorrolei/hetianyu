@@ -58,10 +58,18 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "tab-zuo-icon-normal",
+  "name": "tab-zuo-icon-bg",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "D9858718-3382-4084-A9DF-57429C5BB172"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "D9858718-3382-4084-A9DF-57429C5BB172"
+    }
+  }
 }
