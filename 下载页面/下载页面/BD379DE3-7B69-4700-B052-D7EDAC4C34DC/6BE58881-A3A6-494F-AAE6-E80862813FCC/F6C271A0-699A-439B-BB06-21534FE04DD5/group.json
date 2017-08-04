@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -31,7 +31,7 @@
     },
     {
       "class": "bitmap",
-      "id": "3659EAA0-F0D7-415B-A92E-86C6DF8ACD3B"
+      "id": "B0B2DFAE-B02C-453A-9823-516108940A99"
     }
   ],
   "name": "DSC_6211",
