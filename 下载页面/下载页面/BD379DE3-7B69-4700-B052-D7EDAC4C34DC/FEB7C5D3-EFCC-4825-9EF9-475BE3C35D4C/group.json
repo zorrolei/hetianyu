@@ -23,39 +23,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "196471CB-C30A-4E27-A6E3-B7015F8C3531"
-    },
-    {
-      "class": "text",
-      "id": "F1FF560B-1E12-4B82-A78F-AA10C3AE1320"
-    },
-    {
-      "class": "text",
-      "id": "C8E8689E-A360-43BF-B0AA-4129D5145015"
-    },
-    {
-      "class": "bitmap",
-      "id": "70C76F18-0441-4E33-A2C8-130CD95A849F"
-    },
-    {
-      "class": "bitmap",
-      "id": "9CCB5751-4BE9-4B53-A1AF-B9B66445723A"
-    },
-    {
-      "class": "bitmap",
-      "id": "C80A18B1-2178-4132-B58C-679FA96C8112"
+      "class": "slice",
+      "id": "A6892B52-376F-4687-A4AE-39B72785F19D"
     },
     {
       "class": "group",
-      "id": "600165C7-55D4-400D-8E9E-8B5B615514B1"
+      "id": "230E1CB9-6B76-41BC-A94D-E2CE2582FEAC"
     },
     {
-      "class": "bitmap",
-      "id": "DE1C953D-2839-4C21-A208-2DA269AEB00D"
+      "class": "group",
+      "id": "522CD9D9-C658-4945-8B4A-A0A644808B4C"
     }
   ],
   "name": "第二屏",

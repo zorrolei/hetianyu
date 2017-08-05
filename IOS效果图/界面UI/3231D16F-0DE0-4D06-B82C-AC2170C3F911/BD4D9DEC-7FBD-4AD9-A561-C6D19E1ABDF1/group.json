@@ -23,11 +23,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "CF07A74C-BE34-421B-872D-4EF9D6D90EEA"
+      "class": "shapeGroup",
+      "id": "EA58DAE8-3A59-423E-9F59-6A3ADA8D456F"
     },
     {
       "class": "text",
@@ -84,6 +84,10 @@
     {
       "class": "group",
       "id": "E997E060-DD04-4494-B32D-21EDE24A0A9F"
+    },
+    {
+      "class": "slice",
+      "id": "D9858718-3382-4084-A9DF-57429C5BB172"
     }
   ],
   "name": "tabS",

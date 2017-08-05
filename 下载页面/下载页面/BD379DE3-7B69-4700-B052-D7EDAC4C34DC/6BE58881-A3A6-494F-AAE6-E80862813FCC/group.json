@@ -23,19 +23,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
+    {
+      "class": "slice",
+      "id": "0B3A74E8-C75A-4691-BB60-2CFAD39F909C"
+    },
     {
       "class": "group",
       "id": "F6C271A0-699A-439B-BB06-21534FE04DD5"
     },
     {
-      "class": "text",
-      "id": "C614094F-98D4-43A5-B330-31DD24C8D114"
-    },
-    {
-      "class": "text",
-      "id": "DFC215B3-FF36-485E-A05A-08C206D38954"
+      "class": "group",
+      "id": "758913B5-F42E-4DED-B7E1-5420AAFE9C9A"
     }
   ],
   "name": "第三屏",

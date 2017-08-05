@@ -1,6 +1,7 @@
 {
-  "_class": "group",
-  "do_objectID": "F3D5344A-175C-49EB-A0C2-6A821225869C",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "DE1C953D-2839-4C21-A208-2DA269AEB00D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,32 +11,29 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 1474,
-    "width": 1924,
-    "x": -2,
-    "y": -396
+    "constrainProportions": true,
+    "height": 135.8859629568192,
+    "width": 303.1514921305235,
+    "x": 35,
+    "y": 933
   },
-  "hasClickThrough": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/4728396bdab56dd0bb2619e8862474648d805e16",
+    "_ref_class": "MSImageData"
+  },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "group",
-      "id": "DEAE070B-A882-4CF4-9C0D-3D80D8D7F06D"
-    },
-    {
-      "class": "group",
-      "id": "2FD8BAF6-BC73-4664-BFEF-06A1BECC2030"
-    }
-  ],
-  "name": "第一屏",
-  "nameIsFixed": true,
+  "name": "图层 18",
+  "nameIsFixed": false,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -48,7 +46,7 @@
   },
   "userInfo": {
     "com.sketchplugins.wechat.selectionDom1": {
-      "selection1": "F3D5344A-175C-49EB-A0C2-6A821225869C"
+      "selection1": "DE1C953D-2839-4C21-A208-2DA269AEB00D"
     }
   }
 }

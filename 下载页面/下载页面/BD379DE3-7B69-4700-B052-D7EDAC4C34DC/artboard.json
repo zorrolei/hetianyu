@@ -67,6 +67,10 @@
       "id": "399C73DA-7D15-4E21-8021-80DD4D3E7EBF"
     },
     {
+      "class": "slice",
+      "id": "957654BA-13EC-43BA-9657-E84264F966E9"
+    },
+    {
       "class": "text",
       "id": "E6941C68-6BC0-4600-B91B-2AD9032DB139"
     },
@@ -79,24 +83,8 @@
       "id": "C339434F-483E-4D13-A1AD-4C89F57A08C0"
     },
     {
-      "class": "bitmap",
-      "id": "129B0F55-A4AC-4DA3-AFC3-1BD3E717B228"
-    },
-    {
-      "class": "text",
-      "id": "7721B645-2CC8-4B58-AF53-96A2C626B509"
-    },
-    {
-      "class": "text",
-      "id": "4AD64969-4225-4BC7-8982-18F7BEB20711"
-    },
-    {
-      "class": "text",
-      "id": "2910E790-71F0-484F-A3F6-E0839FDEC6BE"
-    },
-    {
       "class": "group",
-      "id": "9899BFD8-F397-4C7D-B318-179BCD2A555B"
+      "id": "4BA52105-4404-473F-BD09-6C8532814215"
     }
   ],
   "name": "Artboard",
