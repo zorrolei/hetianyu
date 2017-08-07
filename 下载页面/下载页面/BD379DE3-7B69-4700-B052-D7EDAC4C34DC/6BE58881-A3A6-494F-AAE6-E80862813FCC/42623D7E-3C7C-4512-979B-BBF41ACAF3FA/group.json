@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 479,
+    "height": 357,
     "width": 1000,
     "x": 460,
-    "y": 221
+    "y": 326
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -31,19 +31,15 @@
     },
     {
       "class": "bitmap",
-      "id": "DD635DFF-0A76-4624-A722-5D5828357316"
+      "id": "DFFD5833-5E2A-40AA-BB9F-71D794B946D8"
     },
     {
-      "class": "group",
-      "id": "F92742D3-5587-4869-B056-604BC0122333"
+      "class": "shapeGroup",
+      "id": "027C5130-71FE-4915-93DB-A1C036F4A78E"
     },
     {
-      "class": "group",
-      "id": "7CFFF367-51CA-465D-9542-47C983E646DD"
-    },
-    {
-      "class": "group",
-      "id": "A316F63A-E592-4BFE-B0F5-B3E6CC2DF811"
+      "class": "bitmap",
+      "id": "362BD3DF-B2DF-43BD-9C65-467A8156848F"
     }
   ],
   "name": "DSC_6211",

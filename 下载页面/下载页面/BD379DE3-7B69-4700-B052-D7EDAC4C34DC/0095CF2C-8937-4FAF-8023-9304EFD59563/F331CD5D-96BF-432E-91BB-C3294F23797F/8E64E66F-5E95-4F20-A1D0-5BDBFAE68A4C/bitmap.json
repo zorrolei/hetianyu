@@ -1,6 +1,7 @@
 {
-  "_class": "group",
-  "do_objectID": "A8858153-BDB2-4999-BB4E-38D0C4FD578C",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "8E64E66F-5E95-4F20-A1D0-5BDBFAE68A4C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,32 +11,29 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 359,
-    "width": 289,
-    "x": 404,
+    "constrainProportions": true,
+    "height": 272,
+    "width": 257,
+    "x": 0,
     "y": 0
   },
-  "hasClickThrough": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/383f4d80043afb8c9e2f7c4659ec7f85663e3194",
+    "_ref_class": "MSImageData"
+  },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "B5E46D45-E844-44D8-8D75-A44E54098401"
-    },
-    {
-      "class": "bitmap",
-      "id": "DCE0786D-83EB-4902-AD56-7918923BDCB8"
-    }
-  ],
-  "name": "DSC_0658",
+  "name": "Bitmap",
   "nameIsFixed": false,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -45,10 +43,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "userInfo": {
-    "com.sketchplugins.wechat.selectionDom1": {
-      "selection1": "A8858153-BDB2-4999-BB4E-38D0C4FD578C"
-    }
   }
 }
