@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -31,7 +31,19 @@
     },
     {
       "class": "bitmap",
-      "id": "B0B2DFAE-B02C-453A-9823-516108940A99"
+      "id": "1D77930D-8A39-4452-8E47-3EB0BE6BF186"
+    },
+    {
+      "class": "bitmap",
+      "id": "604A48A8-7C29-4DDA-8CDC-B80FC756DCC3"
+    },
+    {
+      "class": "bitmap",
+      "id": "BBD68BC2-508B-4097-B26C-AE8751E0A7FB"
+    },
+    {
+      "class": "group",
+      "id": "C51E6E6D-514D-473C-84A4-108CCE775E56"
     }
   ],
   "name": "DSC_6211",

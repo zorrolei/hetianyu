@@ -16,7 +16,7 @@
     "height": 86,
     "width": 819,
     "x": 551,
-    "y": 183
+    "y": 740
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -45,5 +45,13 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "758913B5-F42E-4DED-B7E1-5420AAFE9C9A"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "758913B5-F42E-4DED-B7E1-5420AAFE9C9A"
+    }
   }
 }
