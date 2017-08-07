@@ -49,5 +49,10 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "FEB7C5D3-EFCC-4825-9EF9-475BE3C35D4C"
+    }
   }
 }

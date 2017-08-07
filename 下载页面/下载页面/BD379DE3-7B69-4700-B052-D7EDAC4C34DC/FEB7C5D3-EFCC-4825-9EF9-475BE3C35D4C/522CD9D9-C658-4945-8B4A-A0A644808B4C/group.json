@@ -13,25 +13,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 172,
-    "width": 685,
-    "x": 862,
-    "y": 660
+    "height": 721,
+    "width": 907,
+    "x": 507,
+    "y": 452
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
-  "layerListExpandedType": 2,
+  "isVisible": true,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
       "id": "F1FF560B-1E12-4B82-A78F-AA10C3AE1320"
     },
     {
+      "class": "group",
+      "id": "D19CF891-3930-45CA-B628-B486BAA01A38"
+    },
+    {
       "class": "text",
       "id": "C8E8689E-A360-43BF-B0AA-4129D5145015"
+    },
+    {
+      "class": "group",
+      "id": "C3B0CDA2-F09E-4B37-AA98-7D9CF8DF5261"
     }
   ],
   "name": "Group 6",
