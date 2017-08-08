@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1474,
+    "height": 1478,
     "width": 1924,
     "x": 0,
     "y": 0
@@ -25,6 +25,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "bitmap",
+      "id": "A4EC4EBA-FB99-4624-8C92-A38C1C8AC59B"
+    },
     {
       "class": "shapeGroup",
       "id": "0FCCA7E3-4B22-46A0-9B1D-219AD96D75F6"

@@ -17,7 +17,7 @@
     "height": 989,
     "width": 1920,
     "x": 0,
-    "y": 3226
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": true,
@@ -135,6 +135,11 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "9038AAE2-36FA-4702-A256-7BDA84A119ED"
+    }
   },
   "windingRule": 1
 }

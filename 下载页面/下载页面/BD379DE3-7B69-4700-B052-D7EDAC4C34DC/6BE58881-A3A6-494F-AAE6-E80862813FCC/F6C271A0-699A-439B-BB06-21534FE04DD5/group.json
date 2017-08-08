@@ -44,6 +44,10 @@
     {
       "class": "group",
       "id": "C51E6E6D-514D-473C-84A4-108CCE775E56"
+    },
+    {
+      "class": "slice",
+      "id": "0B3A74E8-C75A-4691-BB60-2CFAD39F909C"
     }
   ],
   "name": "DSC_6211",

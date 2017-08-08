@@ -35,32 +35,32 @@
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{0.00019461190081930708, 0.80816077436501899}",
+        "curveFrom": "{0.00019461190081921742, 0.84210405316036807}",
         "curveMode": 1,
-        "curveTo": "{0.00019461190081930708, 0.80816077436501899}",
+        "curveTo": "{0.00019461190081921742, 0.84210405316036807}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{0.00019461190081930708, 0.80816077436501899}"
+        "point": "{0.00019461190081921742, 0.84210405316036807}"
       },
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{0.59727009384622287, 0.94689515354182197}",
+        "curveFrom": "{0.59727009384622298, 0.98083843233717094}",
         "curveMode": 4,
-        "curveTo": "{0.16864502015912813, 0.8981320323298192}",
+        "curveTo": "{0.16864502015912819, 0.93207531112516817}",
         "hasCurveFrom": true,
         "hasCurveTo": true,
-        "point": "{0.40489448413674051, 0.84846996359988647}"
+        "point": "{0.40489448413674056, 0.88241324239523544}"
       },
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{0.93734921995261977, 0.92957606891445665}",
+        "curveFrom": "{0.93734921995261977, 0.96351934770980574}",
         "curveMode": 2,
-        "curveTo": "{0.71542411901097136, 0.93135483740738323}",
+        "curveTo": "{0.71542411901097136, 0.96529811620273231}",
         "hasCurveFrom": true,
         "hasCurveTo": true,
-        "point": "{0.82638666948179562, 0.93046545316091989}"
+        "point": "{0.82638666948179562, 0.96440873195626897}"
       },
       {
         "_class": "curvePoint",
@@ -97,5 +97,10 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "92D63485-1150-4F51-86AD-FC6BB4588D42"
+    }
+  }
 }

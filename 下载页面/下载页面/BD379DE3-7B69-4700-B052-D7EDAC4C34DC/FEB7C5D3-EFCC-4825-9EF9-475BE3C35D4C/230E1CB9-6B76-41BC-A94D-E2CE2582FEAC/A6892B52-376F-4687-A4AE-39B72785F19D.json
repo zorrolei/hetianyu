@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "957654BA-13EC-43BA-9657-E84264F966E9",
+  "do_objectID": "A6892B52-376F-4687-A4AE-39B72785F19D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,16 +23,16 @@
     ],
     "includedLayerIds": [
     ],
-    "layerOptions": 0,
+    "layerOptions": 2,
     "shouldTrim": false
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 989,
+    "height": 1066,
     "width": 1920,
     "x": 0,
-    "y": 3226
+    "y": 324
   },
   "hasBackgroundColor": false,
   "isFlippedHorizontal": false,
@@ -40,10 +40,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Artboard",
+  "name": "第二屏",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "A6892B52-376F-4687-A4AE-39B72785F19D"
+    }
+  }
 }

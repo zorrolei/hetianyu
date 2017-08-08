@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "1C20B340-A558-409B-BB54-1F9FA486C085",
+  "do_objectID": "9899BFD8-F397-4C7D-B318-179BCD2A555B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,41 +13,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 136,
-    "width": 519,
-    "x": 769,
-    "y": 3284
+    "height": 63,
+    "width": 197,
+    "x": 847,
+    "y": 4068
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "text",
-      "id": "13416E0F-1D55-4562-BA85-86A769C8D7E7"
+      "class": "shapeGroup",
+      "id": "ECF31617-1A0D-432A-8041-A11CB4E1C9A0"
     },
     {
       "class": "text",
-      "id": "C311E133-8653-4E80-A2B3-3056E2804F3F"
-    },
-    {
-      "class": "text",
-      "id": "A6741ED5-71DB-4DDB-A5A1-7DF5BF1428A6"
-    },
-    {
-      "class": "text",
-      "id": "1BB4B067-5904-4A66-B60F-A982F620A9FA"
+      "id": "493CD52A-9CE7-4B61-8308-891731BA998E"
     }
   ],
-  "name": "Group 16",
+  "name": "Group",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
@@ -56,7 +48,7 @@
   },
   "userInfo": {
     "com.sketchplugins.wechat.selectionDom1": {
-      "selection1": "1C20B340-A558-409B-BB54-1F9FA486C085"
+      "selection1": "9899BFD8-F397-4C7D-B318-179BCD2A555B"
     }
   }
 }

@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 968,
-    "width": 1043,
-    "x": 2,
+    "height": 1045.563862808628,
+    "width": 1126.573459617148,
+    "x": -2,
     "y": 397
   },
   "image": {
@@ -43,5 +43,10 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "5316F8D7-D887-466D-94C6-52946A3340C0"
+    }
   }
 }

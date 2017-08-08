@@ -10,7 +10,7 @@
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 2,
+        "scale": 1,
         "visibleScaleType": 0
       }
     ],
@@ -54,5 +54,10 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "FE73B1DF-CF12-4CB4-A30F-127D3DF837D4"
+    }
   }
 }

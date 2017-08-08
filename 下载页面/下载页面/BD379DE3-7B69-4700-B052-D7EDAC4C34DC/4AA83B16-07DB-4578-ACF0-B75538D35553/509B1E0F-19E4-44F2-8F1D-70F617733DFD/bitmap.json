@@ -18,7 +18,7 @@
     "height": 825,
     "width": 755,
     "x": 1165,
-    "y": 3322
+    "y": 96
   },
   "image": {
     "_class": "MSJSONFileReference",
@@ -43,5 +43,10 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "509B1E0F-19E4-44F2-8F1D-70F617733DFD"
+    }
   }
 }

@@ -35,32 +35,32 @@
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{0.00019461190081930708, 0.80816077436501899}",
+        "curveFrom": "{0.00019461190081930543, 0.83531539740129834}",
         "curveMode": 1,
-        "curveTo": "{0.00019461190081930708, 0.80816077436501899}",
+        "curveTo": "{0.00019461190081930543, 0.83531539740129834}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{0.00019461190081930708, 0.80816077436501899}"
+        "point": "{0.00019461190081930543, 0.83531539740129834}"
       },
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{0.59727009384622287, 0.94689515354182197}",
+        "curveFrom": "{0.59727009384622287, 0.9740497765781011}",
         "curveMode": 4,
-        "curveTo": "{0.16864502015912813, 0.8981320323298192}",
+        "curveTo": "{0.16864502015912813, 0.92528665536609833}",
         "hasCurveFrom": true,
         "hasCurveTo": true,
-        "point": "{0.40489448413674051, 0.84846996359988647}"
+        "point": "{0.40489448413674051, 0.8756245866361656}"
       },
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{0.93734921995261977, 0.92957606891445665}",
+        "curveFrom": "{0.93734921995261977, 0.9567306919507359}",
         "curveMode": 2,
-        "curveTo": "{0.71542411901097136, 0.93135483740738323}",
+        "curveTo": "{0.71542411901097136, 0.95850946044366248}",
         "hasCurveFrom": true,
         "hasCurveTo": true,
-        "point": "{0.82638666948179562, 0.93046545316091989}"
+        "point": "{0.82638666948179562, 0.95762007619719913}"
       },
       {
         "_class": "curvePoint",
@@ -97,5 +97,10 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "3189700F-5B64-41BE-A0B3-E8EF7B3A684B"
+    }
+  }
 }

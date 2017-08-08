@@ -67,28 +67,12 @@
       "id": "399C73DA-7D15-4E21-8021-80DD4D3E7EBF"
     },
     {
-      "class": "slice",
-      "id": "957654BA-13EC-43BA-9657-E84264F966E9"
-    },
-    {
       "class": "text",
       "id": "E6941C68-6BC0-4600-B91B-2AD9032DB139"
     },
     {
-      "class": "shapeGroup",
-      "id": "9038AAE2-36FA-4702-A256-7BDA84A119ED"
-    },
-    {
-      "class": "bitmap",
-      "id": "16C70E1C-AAC3-4463-B8B4-A998B51A54D4"
-    },
-    {
-      "class": "bitmap",
-      "id": "66BF769C-24AC-4DBC-BF4F-A1EEF3688B42"
-    },
-    {
-      "class": "bitmap",
-      "id": "509B1E0F-19E4-44F2-8F1D-70F617733DFD"
+      "class": "group",
+      "id": "4AA83B16-07DB-4578-ACF0-B75538D35553"
     },
     {
       "class": "group",
@@ -99,8 +83,16 @@
       "id": "1C20B340-A558-409B-BB54-1F9FA486C085"
     },
     {
+      "class": "text",
+      "id": "7721B645-2CC8-4B58-AF53-96A2C626B509"
+    },
+    {
+      "class": "text",
+      "id": "2910E790-71F0-484F-A3F6-E0839FDEC6BE"
+    },
+    {
       "class": "group",
-      "id": "4BA52105-4404-473F-BD09-6C8532814215"
+      "id": "9899BFD8-F397-4C7D-B318-179BCD2A555B"
     },
     {
       "class": "text",

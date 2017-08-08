@@ -44,6 +44,10 @@
     {
       "class": "bitmap",
       "id": "DE1C953D-2839-4C21-A208-2DA269AEB00D"
+    },
+    {
+      "class": "slice",
+      "id": "A6892B52-376F-4687-A4AE-39B72785F19D"
     }
   ],
   "name": "Group 10",
