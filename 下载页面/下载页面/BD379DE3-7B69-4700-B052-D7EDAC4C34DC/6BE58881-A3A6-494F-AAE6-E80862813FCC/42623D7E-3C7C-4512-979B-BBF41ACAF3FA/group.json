@@ -26,20 +26,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "B83B7D54-C072-4EA4-B26A-50499A2194F7"
+      "class": "group",
+      "id": "1AF9194E-B99C-438A-874A-2882DF44DFFB"
     },
     {
-      "class": "bitmap",
-      "id": "DFFD5833-5E2A-40AA-BB9F-71D794B946D8"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "027C5130-71FE-4915-93DB-A1C036F4A78E"
-    },
-    {
-      "class": "bitmap",
-      "id": "362BD3DF-B2DF-43BD-9C65-467A8156848F"
+      "class": "group",
+      "id": "872152A0-261D-4BCF-A4BE-18B12EB4138C"
     }
   ],
   "name": "DSC_6211",

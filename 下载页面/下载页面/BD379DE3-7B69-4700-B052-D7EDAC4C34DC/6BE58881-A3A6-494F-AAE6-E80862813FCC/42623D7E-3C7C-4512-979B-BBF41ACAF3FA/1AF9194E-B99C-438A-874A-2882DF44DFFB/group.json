@@ -1,9 +1,18 @@
 {
   "_class": "group",
-  "do_objectID": "4AA83B16-07DB-4578-ACF0-B75538D35553",
+  "do_objectID": "1AF9194E-B99C-438A-874A-2882DF44DFFB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -13,40 +22,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 989,
-    "width": 1920,
-    "x": -71,
-    "y": 3191
+    "height": 357,
+    "width": 490,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "9038AAE2-36FA-4702-A256-7BDA84A119ED"
-    },
-    {
-      "class": "slice",
-      "id": "957654BA-13EC-43BA-9657-E84264F966E9"
+      "id": "B83B7D54-C072-4EA4-B26A-50499A2194F7"
     },
     {
       "class": "bitmap",
-      "id": "16C70E1C-AAC3-4463-B8B4-A998B51A54D4"
-    },
-    {
-      "class": "bitmap",
-      "id": "66BF769C-24AC-4DBC-BF4F-A1EEF3688B42"
-    },
-    {
-      "class": "bitmap",
-      "id": "509B1E0F-19E4-44F2-8F1D-70F617733DFD"
+      "id": "DFFD5833-5E2A-40AA-BB9F-71D794B946D8"
     }
   ],
-  "name": "Group 12",
+  "name": "Group 20",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

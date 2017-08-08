@@ -4,6 +4,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -13,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 309,
+    "height": 405,
     "width": 778,
     "x": 571,
     "y": 3450
@@ -23,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -36,6 +45,18 @@
     {
       "class": "group",
       "id": "17A1FE9B-31A8-414F-B697-3CC6DC02E55E"
+    },
+    {
+      "class": "text",
+      "id": "B4CCCC06-D38F-42BF-956C-6377A665F44F"
+    },
+    {
+      "class": "text",
+      "id": "9960D219-6A33-4452-A7A6-B4B67B3AF42F"
+    },
+    {
+      "class": "text",
+      "id": "384E82B3-8A7D-400A-B0ED-471FF19006A6"
     }
   ],
   "name": "Group 18",
