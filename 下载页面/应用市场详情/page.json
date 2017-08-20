@@ -1,6 +1,6 @@
 {
-  "_class": "group",
-  "do_objectID": "A8858153-BDB2-4999-BB4E-38D0C4FD578C",
+  "_class": "page",
+  "do_objectID": "C1941F62-7270-4D4C-9F5D-91D7A7C85565",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,12 +13,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 359,
-    "width": 289,
-    "x": 404,
+    "height": 300,
+    "width": 300,
+    "x": 0,
     "y": 0
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -612,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -26,16 +33,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "B5E46D45-E844-44D8-8D75-A44E54098401"
-    },
-    {
-      "class": "bitmap",
-      "id": "DCE0786D-83EB-4902-AD56-7918923BDCB8"
+      "class": "artboard",
+      "id": "DDE4FB09-071F-4E9F-A980-DF53B2E475C1"
     }
   ],
-  "name": "DSC_0658",
-  "nameIsFixed": false,
+  "name": "应用市场详情",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -46,9 +49,10 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "userInfo": {
-    "com.sketchplugins.wechat.selectionDom1": {
-      "selection1": "A8858153-BDB2-4999-BB4E-38D0C4FD578C"
-    }
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -388,
+    "guides": [
+    ]
   }
 }

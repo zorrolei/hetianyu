@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "A8858153-BDB2-4999-BB4E-38D0C4FD578C",
+  "do_objectID": "E8B9B9FA-3168-4820-8D9C-47DB421E9A19",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 359,
-    "width": 289,
-    "x": 404,
-    "y": 0
+    "height": 36,
+    "width": 254,
+    "x": 98,
+    "y": 183
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,14 +27,14 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "B5E46D45-E844-44D8-8D75-A44E54098401"
+      "id": "4804DE2C-D68B-4C63-AEF0-2126FBE9F569"
     },
     {
-      "class": "bitmap",
-      "id": "DCE0786D-83EB-4902-AD56-7918923BDCB8"
+      "class": "text",
+      "id": "653B3F06-90E8-49BF-A8B1-EB0D02B3CEC6"
     }
   ],
-  "name": "DSC_0658",
+  "name": "Group",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,10 +45,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "userInfo": {
-    "com.sketchplugins.wechat.selectionDom1": {
-      "selection1": "A8858153-BDB2-4999-BB4E-38D0C4FD578C"
-    }
   }
 }

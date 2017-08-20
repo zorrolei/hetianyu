@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "A8858153-BDB2-4999-BB4E-38D0C4FD578C",
+  "do_objectID": "75387263-F6E8-461B-9470-E3788D9243A1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 359,
-    "width": 289,
-    "x": 404,
+    "height": 800,
+    "width": 2401,
+    "x": 0,
     "y": 0
   },
   "hasClickThrough": false,
@@ -23,19 +23,31 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "B5E46D45-E844-44D8-8D75-A44E54098401"
+      "class": "slice",
+      "id": "40FFE832-603F-44BD-B554-A1A48FC4FB8F"
     },
     {
-      "class": "bitmap",
-      "id": "DCE0786D-83EB-4902-AD56-7918923BDCB8"
+      "class": "slice",
+      "id": "03B5D315-0FF0-418A-8176-EF2473CF440A"
+    },
+    {
+      "class": "slice",
+      "id": "24129DC4-84EE-4622-B20B-B3BB68C19784"
+    },
+    {
+      "class": "slice",
+      "id": "061887C1-A4FC-4855-BFAB-70514469161D"
+    },
+    {
+      "class": "slice",
+      "id": "E96C955D-4E1E-4C9D-B037-32E81167E8E0"
     }
   ],
-  "name": "DSC_0658",
-  "nameIsFixed": false,
+  "name": "切片",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -45,10 +57,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "userInfo": {
-    "com.sketchplugins.wechat.selectionDom1": {
-      "selection1": "A8858153-BDB2-4999-BB4E-38D0C4FD578C"
-    }
   }
 }

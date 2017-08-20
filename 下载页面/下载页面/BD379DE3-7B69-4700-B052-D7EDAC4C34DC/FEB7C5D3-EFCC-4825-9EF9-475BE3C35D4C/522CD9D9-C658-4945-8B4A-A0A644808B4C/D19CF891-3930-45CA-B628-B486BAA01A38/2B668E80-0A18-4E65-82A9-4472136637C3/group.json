@@ -4,15 +4,6 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -54,10 +45,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "userInfo": {
-    "com.sketchplugins.wechat.selectionDom1": {
-      "selection1": "2B668E80-0A18-4E65-82A9-4472136637C3"
-    }
   }
 }
