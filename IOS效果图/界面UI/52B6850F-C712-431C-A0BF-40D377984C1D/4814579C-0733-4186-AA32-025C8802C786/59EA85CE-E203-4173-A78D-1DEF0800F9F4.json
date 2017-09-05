@@ -24,7 +24,7 @@
     "height": 17,
     "width": 24,
     "x": 257,
-    "y": 43
+    "y": 58
   },
   "glyphBounds": "{{0, 0}, {24, 15}}",
   "heightIsClipped": false,
@@ -36,7 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "资讯",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

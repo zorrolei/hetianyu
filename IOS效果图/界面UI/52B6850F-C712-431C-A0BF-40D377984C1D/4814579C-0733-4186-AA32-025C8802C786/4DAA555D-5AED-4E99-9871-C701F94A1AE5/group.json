@@ -43,7 +43,7 @@
     "height": 60,
     "width": 60,
     "x": 165,
-    "y": 5
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -61,7 +61,7 @@
       "id": "98222533-3462-47FA-83F9-BF3ADDA5134A"
     }
   ],
-  "name": "icon-tabs-zuo",
+  "name": "icon-tabs-zuo-circle",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
