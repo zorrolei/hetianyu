@@ -4,6 +4,33 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -13,10 +40,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 35,
-    "x": 178,
-    "y": 15
+    "height": 60,
+    "width": 60,
+    "x": 165,
+    "y": 5
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -26,12 +53,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "02BF904E-AA95-4429-BD3E-981512B67EF3"
+    },
+    {
       "class": "group",
       "id": "98222533-3462-47FA-83F9-BF3ADDA5134A"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "icon-tabs-zuo",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

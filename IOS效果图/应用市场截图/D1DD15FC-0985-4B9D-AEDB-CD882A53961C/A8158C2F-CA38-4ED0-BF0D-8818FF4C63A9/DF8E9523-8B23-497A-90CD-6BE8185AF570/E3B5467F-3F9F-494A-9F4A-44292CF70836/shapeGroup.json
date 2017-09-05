@@ -1,6 +1,7 @@
 {
-  "_class": "group",
-  "do_objectID": "743152B9-3FAC-4ECD-B297-AD0B8F1E5D71",
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "E3B5467F-3F9F-494A-9F4A-44292CF70836",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,13 +13,14 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 76.8,
-    "width": 67.2,
-    "x": 341.76,
-    "y": 28.8
+    "constrainProportions": true,
+    "height": 115.2,
+    "width": 115.2,
+    "x": 0.7999999999999545,
+    "y": 0.599999999999909
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -26,11 +28,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "54F9913B-D56D-4FDD-AF32-B23FF0EC6629"
+      "class": "oval",
+      "id": "EE8E966B-46C1-4B39-820A-BC95CF496E42"
     }
   ],
-  "name": "Group",
+  "name": "Oval 4 Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -43,9 +45,25 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 3.84,
+      "radius": 19.2,
       "type": 0
     },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1.92
+      }
+    ],
     "endDecorationType": 0,
     "fills": [
       {
@@ -53,9 +71,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.1921568627450981,
+          "green": 0.1921568627450981,
+          "red": 0.8784313725490196
         },
         "fillType": 0,
         "isEnabled": true,
@@ -66,6 +84,8 @@
       }
     ],
     "miterLimit": 10,
+    "sharedObjectID": "2DFAC89A-4289-4C1A-9C59-10F7FD8DCD30",
     "startDecorationType": 0
-  }
+  },
+  "windingRule": 1
 }
