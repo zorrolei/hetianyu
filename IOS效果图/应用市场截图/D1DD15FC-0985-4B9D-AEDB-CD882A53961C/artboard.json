@@ -7,6 +7,7 @@
     "green": 0.9450980392156862,
     "red": 0.9450980392156862
   },
+  "booleanOperation": 0,
   "do_objectID": "D1DD15FC-0985-4B9D-AEDB-CD882A53961C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -44,8 +45,10 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -101,7 +104,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -112,7 +115,7 @@
       "radius": 19.2,
       "type": 0
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -132,7 +135,8 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.sketchplugins.wechat.selectionDom1": {

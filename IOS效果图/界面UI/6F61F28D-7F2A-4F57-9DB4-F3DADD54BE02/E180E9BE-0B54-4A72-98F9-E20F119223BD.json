@@ -1,12 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNT9CRUlNVVZXWFldYWNVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANvEQGYMBBekzAAMABbWDARTsVrZE4ATvYACjAQTvdoPGc6UjYwEU73aDxPTk6OiExgxf8Mj9FnH1wGTgqMA/8MTg1imE4NYmMACjAQXDowADAAW/gwEWISYwf/GmMHVwgAMQA0U/f/DFGFX4QAMQA2AC4ANQBtAG3/DFMFkdH/GprYADIAMgAuADUAbQBt/wxbvQAyADEAbQBt/wxTmgAxADIAbQBt/xuI+Hfz/xqa2AAxADUALgAyAG0Abf8MW70AMQAyAG0Abf8MU5oANgBtAG3/G4AzlIlrz5iXfqb/GlMFkdH/GprYADIAMgBtAG3/DFu9ADEANwAuADcAbQBt/wxTmgAxADAALgA4AG0Abf8biPh38/8amtgAMQA0AG0Abf8MW70AMQAyAC4AMwBtAG3/DFOaADUALgA2AG0AbQAKMBCYnDAAMACCcjARfv9mdGw0AAowEJAPACBmDgAgXqYwEU6MUgZOS04AkA9mDgAKMBBfxYmBi/RmDjARYhJjB2cJfsZcD2jJfr//DIAzlIlRdk4AZwl38365/wxPRnRVTg1jqXRcAAowEFOfd/NOp1cwMBF/BXU4UxeQ6FvGZS+Qo1udd/N+p3/hf+B3/1M6AAowEJJ0W5qLwU5mMBFnLFTBTjpZKXE2fwV1OABBjSd/4X/g/wxiEE6kZfZR+lF3Z0NaAWjAbUuLwU5m/wxrIo/OUjBO+09VZ0NaAXPgW51owG1LZzpnhFkNaMAACjAQlo9TVZFNTvYwEXPgW5120jABZ0NaAWc6Z4QAQY0naMBtS4vBTmYwAWMCTvZT5o1gfL5/jmMCfvMACjAQVS5UDmJ/i/owEXt+ZTZOS2X2jXcAN2XlUYX/DE4NlwBO+09VdAZ1MVdHU++B6nUxkABjYv8MT92LwWPQT5tbjH+OZw1Sof8MXnZif2LFTgBSB2zVX4uNI077MAIACjAQkU2QAWX2lfQwEU7Yaz5OS2X2jXcANwAyXA9l9lGFU9GNJ/8MT391KJh6TjBf65ASYhYARQBNAFNyeV/rThOQEv8MTglSME6UWSlTc1PvUjCPvv8McnlrimDFUbWQAl9TmHpe9jAC0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAuAD4AXV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdQgISIKIyQlJlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VMMC40IDAuNCAwLjQAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1jYKNzg5Ojs8PT4kPVpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHSAAIAOI0AyAAAAAAAAgAzSEgpAQaCADdIsLUNEV05TQXJyYXmiQzHSLC1GR18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0ZIMV8QEE5TUGFyYWdyYXBoU3R5bGXSCkpLTF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBaAENMREgpOUVSiT1CAEYASolJTgBOAFIAVXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCgAAAAAAABfEBMuUGluZ0ZhbmdTQy1SZWd1bGFy0iwtWltfEBNOU011dGFibGVEaWN0aW9uYXJ5o1pcMVxOU0RpY3Rpb25hcnnSLC1eX18QEE5TRm9udERlc2NyaXB0b3KiYDFfEBBOU0ZvbnREZXNjcmlwdG9y0iwtXGKiXDHSLC1kZV8QEk5TQXR0cmlidXRlZFN0cmluZ6JmMV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFpalRyb290gAEACAARABoAIwAtADIANwBTAFkAYABpAHAAfQB/AIEAgwO3A74DxgPRA9UD1wPZA9sD3wPhA+MD5QPnA+8EAgQkBC0EMwRABFUEYgRkBGYEaARtBHIEdAR2BHsEhgSPBJwEnwSsBLUEugTCBMUE0gTdBO8E/AUeBTAFMgU0BT0FPwVEBUUFRwVMBVQFVwVcBXYFegWNBZIFrwWxBbMFugW9Bb8FwQXEBcYFyAXKBeAF9gX/BhUGGgYwBjQGQQZGBlkGXAZvBnQGdwZ8BpEGlAapBrsGvgbDAAAAAAAAAgEAAAAAAAAAawAAAAAAAAAAAAAAAAAABsU="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": ".PingFangSC-Regular",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
+          }
+        },
+        "length": 408,
+        "location": 0
+      }
+    ],
+    "string": "【库　　存】仅此一件\n【价格机制】价格低于行情，近期将上调，不折不扣\n【尺　　寸】戒指：指圈14号，内径16.5mm，包金：高22.5mm，宽21mm，厚12mm；裸石：高15.2mm，宽12mm，厚6mm；耳钉每颗约：包金：高22mm，宽17.7mm，厚10.8mm；裸石：高14mm，宽12.3mm，厚5.6mm\n【颜　　色】绿晴水\n【透 明 度】二分之一透明\n【必要说明】戒指有细小棉线，耳钉其一有石纹，但瑕不掩瑜\n【原石产地】缅甸北部密支那宝石级翡翠矿区\n【鉴定证书】本品为天然缅甸A货翡翠，成交时出具权威检测证书，欢迎到任何权威珠宝检测机构复检\n【随单配件】珠宝盒、权威机构A货检测证书、挂件另赠精美挂绳\n【售后承诺】签收之时起7日内，不需任何理由均可自由退换，保证提供完美服务，并承担一切法律责任。\n【配送时间】付款之时起72小时内发货，使用顺丰快递或EMS特快专递，三到五天即可到达，特殊情况适当顺延。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "E180E9BE-0B54-4A72-98F9-E20F119223BD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,7 +55,7 @@
     "y": 955
   },
   "glyphBounds": "{{0, 4}, {351, 300}}",
-  "heightIsClipped": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -42,24 +70,36 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
+        },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QEy5QaW5nRmFuZ1NDLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA6QDuAPkBAgEYARwBKQEyATcBSgFNAWABcgF1AXoAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABfA=="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": ".PingFangSC-Regular",
+            "size": 12
+          }
         },
-        "NSColor": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVHFUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzTDAuNCAwLjQgMC40ABABgAKABNISDBMUVE5TSUQQAYAD0hYXGBlaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiGhtcTlNDb2xvclNwYWNlWE5TT2JqZWN00hYXHR5XTlNDb2xvcqIdG18QD05TS2V5ZWRBcmNoaXZlctEhIlRyb290gAEACAARABoAIwAtADIANwA9AEMATABSAF8AdAB7AIgAigCMAI4AkwCYAJoAnAChAKwAtQDCAMUA0gDbAOAA6ADrAP0BAAEFAAAAAAAAAgEAAAAAAAAAIwAAAAAAAAAAAAAAAAAAAQc="
-        },
-        "NSParagraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBQYHlUkbnVsbNYJCgsMDQ4PEBESExFaTlNUYWJTdG9wc1YkY2xhc3NfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodIAAgAQjQDIAAAAAAACAAhAB0hUKFhdaTlMub2JqZWN0c6CAA9IZGhscWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIbHVhOU09iamVjdNIZGh8gXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjHyEdXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEkJVRyb290gAEACAARABoAIwAtADIANwA9AEMAUABbAGIAdACBAKMAtQC3ALkAwgDEAMYAywDWANcA2QDeAOkA8gD6AP0BBgELASUBKQE8AU4BUQFWAAAAAAAAAgEAAAAAAAAAJgAAAAAAAAAAAAAAAAAAAVg="
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

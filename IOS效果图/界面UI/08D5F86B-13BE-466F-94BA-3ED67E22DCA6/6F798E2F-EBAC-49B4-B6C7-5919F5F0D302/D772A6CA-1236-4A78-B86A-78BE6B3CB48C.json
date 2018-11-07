@@ -1,12 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGaWpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNUFER0tPV1hZWltfY2VVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANvEDFd5mwPc4l38wAgAFYAMQAuADAALgAwAAoAqQAyADAAMAA4AC0AMgAwADEANwAgXeZsD3OJd/NySGdDYkBnCQAKgFR8+3U1i93/GgA0ADAAMAAtADAAMAAwAC0AMAAwADAAMNMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA+AF1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAmMC42MDc4OTIyMTUzIDAuNjA3ODAzMzQ0NyAwLjYwNzkyMjU1NAAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHXCjY3ODk6Ozw9PiQ/P0BaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gA6AAIAMI0AwAAAAAAAAEALSEgpCQ6CADdIsLUVGV05TQXJyYXmiRTHSLC1ISV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0hKMV8QEE5TUGFyYWdyYXBoU3R5bGXSCkxNTl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBaAENMREgpQU1aiUVKAEYASolRVgBOAFIAVXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCQAAAAAAABfEBJQaW5nRmFuZ1NDLVJlZ3VsYXLSLC1cXV8QE05TTXV0YWJsZURpY3Rpb25hcnmjXF4xXE5TRGljdGlvbmFyedIsLWBhXxAQTlNGb250RGVzY3JpcHRvcqJiMV8QEE5TRm9udERlc2NyaXB0b3LSLC1eZKJeMdIsLWZnXxASTlNBdHRyaWJ1dGVkU3RyaW5nomgxXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WtsVHJvb3SAAQAIABEAGgAjAC0AMgA3AFMAWQBgAGkAcAB9AH8AgQCDAOgA7wD3AQIBBgEIAQoBDAEQARIBFAEWARgBIAEzAVUBXgFkAXEBhgGvAbEBswG1AboBvwHBAcMByAHTAdwB6QHsAfkCAgIHAg8CEgIhAiwCOQJbAm0CfwKLAo0CjwKRApoCnAKhAqICpAKpArECtAK5AtMC1wLqAu8DDAMOAxADFwMaAxwDHgMhAyMDJQMnAz0DUwNcA3EDdgOMA5ADnQOiA7UDuAPLA9AD0wPYA+0D8AQFBBcEGgQfAAAAAAAAAgEAAAAAAAAAbQAAAAAAAAAAAAAAAAAABCE="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.607922554,
+            "green": 0.6078033447,
+            "red": 0.6078922153
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "PingFangSC-Regular",
+              "size": 10
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
+          }
+        },
+        "length": 49,
+        "location": 0
+      }
+    ],
+    "string": "左氏玉石 V1.0.0\n©2008-2017 左氏玉石版权所有\n联系电话：400-000-0000"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "D772A6CA-1236-4A78-B86A-78BE6B3CB48C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,7 +55,7 @@
     "y": 0
   },
   "glyphBounds": "{{0, 0}, {143, 46}}",
-  "heightIsClipped": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -42,24 +70,36 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.607922554,
+          "green": 0.6078033447,
+          "red": 0.6078922153
+        },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAJAAAAAAAAF8QElBpbmdGYW5nU0MtUmVndWxhctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDoAO0A+AEBARcBGwEoATEBNgFJAUwBXwFxAXQBeQAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF7"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "PingFangSC-Regular",
+            "size": 10
+          }
         },
-        "NSColor": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVHFUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzTxAmMC42MDc4OTIyMTUzIDAuNjA3ODAzMzQ0NyAwLjYwNzkyMjU1NAAQAYACgATSEgwTFFROU0lEEAGAA9IWFxgZWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlohobXE5TQ29sb3JTcGFjZVhOU09iamVjdNIWFx0eV05TQ29sb3KiHRtfEA9OU0tleWVkQXJjaGl2ZXLRISJUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAEwAUgBfAHQAewCkAKYAqACqAK8AtAC2ALgAvQDIANEA3gDhAO4A9wD8AQQBBwEZARwBIQAAAAAAAAIBAAAAAAAAACMAAAAAAAAAAAAAAAAAAAEj"
-        },
-        "NSParagraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJCVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBYaIFUkbnVsbNcJCgsMDQ4PEBESExQUFVYkY2xhc3NaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gASAAIACEAEjQDAAAAAAAAAQAtIXCRgZWk5TLm9iamVjdHOggAPSGxwdHlokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiHR9YTlNPYmplY3TSGxwhIl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloyEjH18QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRJidUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAFIAWQBkAHEAkwClALcAwwDFAMcAyQDLANQA1gDbAOYA5wDpAO4A+QECAQoBDQEWARsBNQE5AUwBXgFhAWYAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAABaA=="
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

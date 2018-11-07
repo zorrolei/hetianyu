@@ -1,5 +1,6 @@
 {
   "_class": "shapeGroup",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
   "do_objectID": "2AD59476-B36C-429F-8827-85A93841E84E",
   "exportOptions": {
@@ -21,6 +22,7 @@
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -48,7 +50,7 @@
       "radius": 37.82608695652175,
       "type": 0
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -65,7 +67,6 @@
           "elipseLength": 1,
           "from": "{0.5, 0}",
           "gradientType": 0,
-          "shouldSmoothenOpacity": false,
           "stops": [
             {
               "_class": "gradientStop",
@@ -118,7 +119,6 @@
           "elipseLength": 0,
           "from": "{0.5, 0}",
           "gradientType": 0,
-          "shouldSmoothenOpacity": false,
           "stops": [
             {
               "_class": "gradientStop",
@@ -147,7 +147,7 @@
         },
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/55f4a1a0e02fd4b3744db89f9a6168d67eedda93",
+          "_ref": "images/55f4a1a0e02fd4b3744db89f9a6168d67eedda93.pdf",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -159,7 +159,8 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "9C57551F-213D-4DBB-8133-86BD220F6418",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "windingRule": 1
 }

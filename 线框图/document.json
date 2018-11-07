@@ -24,6 +24,11 @@
     "objects": [
     ]
   },
+  "meta": {
+    "appVersion": "46.2.0",
+    "build": 43514,
+    "version": 92
+  },
   "pages": [
     "Symbols",
     "线框图"

@@ -4,7 +4,7 @@
   "name": "102 Happy Memories Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -21,7 +21,6 @@
           "elipseLength": 0,
           "from": "{0.14507034755644235, 0}",
           "gradientType": 0,
-          "shouldSmoothenOpacity": false,
           "stops": [
             {
               "_class": "gradientStop",
@@ -57,6 +56,7 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "5D8FDA16-BB6E-4C09-BDC7-87859D422B77",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

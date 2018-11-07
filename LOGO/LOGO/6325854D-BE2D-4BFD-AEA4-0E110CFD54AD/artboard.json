@@ -19,24 +19,6 @@
         "namingScheme": 0,
         "scale": 1,
         "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@3x",
-        "namingScheme": 0,
-        "scale": 3,
-        "visibleScaleType": 0
       }
     ],
     "includedLayerIds": [
@@ -53,7 +35,7 @@
     "y": 117
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -68,6 +50,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -79,11 +62,18 @@
   ],
   "name": "Assets/App Icon/iTunesArtwork",
   "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -119,6 +109,9 @@
   "userInfo": {
     "com.sketchplugins.wechat.selectionDom1": {
       "selection1": "6325854D-BE2D-4BFD-AEA4-0E110CFD54AD"
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

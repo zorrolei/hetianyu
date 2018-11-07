@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1024,
-    "x": 0,
+    "height": 1092,
+    "width": 1144,
+    "x": -120,
     "y": 0
   },
   "hasClickThrough": false,
@@ -25,10 +25,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "C4058F4E-3B3A-4549-98C0-C2230AC30E1C"
-    },
     {
       "class": "group",
       "id": "DA0A1F2A-6B59-4947-B38A-6E26742548DA"

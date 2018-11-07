@@ -1,12 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "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"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "PingFangSC-Regular",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          }
+        },
+        "length": 221,
+        "location": 0
+      }
+    ],
+    "string": "此次活动是为了鼓励和推动云南企业坚守商业底线，弘扬用产品品质说话，用诚信经营证明，用优质服务赢得客户，用工匠精神挺起云南质造的云南良心企业和匠心品牌，引导云南更多企业响应以良心和匠心兴业的时代精神。“寻找2016云南良心/匠心品牌”活动从11月初起始，由云南信息报、滇商杂志、云南省食品安全协会、云南品牌企业促进会、云南省民营企业家协会、云南省市场学会6家机构联合发起，最终在参评企业当中评选出20家良心品牌和20家匠心品牌，4家特别贡献奖。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "D3BEAB0C-765D-442A-8CD8-942E2E12E224",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,7 +55,7 @@
     "y": 120
   },
   "glyphBounds": "{{0, 0}, {2563, 18}}",
-  "heightIsClipped": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -42,24 +70,36 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
+        },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QElBpbmdGYW5nU0MtUmVndWxhctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDoAO0A+AEBARcBGwEoATEBNgFJAUwBXwFxAXQBeQAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF7"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "PingFangSC-Regular",
+            "size": 12
+          }
         },
-        "NSColor": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVHFUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzTDAuNCAwLjQgMC40ABABgAKABNISDBMUVE5TSUQQAYAD0hYXGBlaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiGhtcTlNDb2xvclNwYWNlWE5TT2JqZWN00hYXHR5XTlNDb2xvcqIdG18QD05TS2V5ZWRBcmNoaXZlctEhIlRyb290gAEACAARABoAIwAtADIANwA9AEMATABSAF8AdAB7AIgAigCMAI4AkwCYAJoAnAChAKwAtQDCAMUA0gDbAOAA6ADrAP0BAAEFAAAAAAAAAgEAAAAAAAAAIwAAAAAAAAAAAAAAAAAAAQc="
-        },
-        "NSParagraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBQYHlUkbnVsbNYJCgsMDQ4PEBESExFaTlNUYWJTdG9wc1YkY2xhc3NfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodIAAgAQjQDQAAAAAAACAAhAB0hUKFhdaTlMub2JqZWN0c6CAA9IZGhscWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIbHVhOU09iamVjdNIZGh8gXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjHyEdXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEkJVRyb290gAEACAARABoAIwAtADIANwA9AEMAUABbAGIAdACBAKMAtQC3ALkAwgDEAMYAywDWANcA2QDeAOkA8gD6AP0BBgELASUBKQE8AU4BUQFWAAAAAAAAAgEAAAAAAAAAJgAAAAAAAAAAAAAAAAAAAVg="
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

@@ -25,7 +25,7 @@
       "blendMode": 0,
       "opacity": 0.5
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -46,6 +46,7 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "39401072-6955-4D3F-9DDE-9BAA3B1288E3",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

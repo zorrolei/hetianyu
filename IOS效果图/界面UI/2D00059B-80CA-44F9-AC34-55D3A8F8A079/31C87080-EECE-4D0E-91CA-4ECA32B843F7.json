@@ -1,12 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNT9CRUlNVVZXWFldYWNVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANvEIxd5mwPZi9OAFu2ThOV6H7PhCVUBHx7ZYdOAHOpTqdUwXaETs5Oi2WHUxZPIGStdoRRbFP4/wxd5mwPdoSAAWd/Tl9mL06SgFR/UXVMdoRZJ1SW/wxl6VcoADIAMAAwADNedFwxXfJ+z1codn5epoQllQBluZdiZwlOhk4adUxUzV9TX1N2hFcwT00wAgAyADAAMAA1XnRd5mwPgAFnf1coZbB1hk5LZcVOLWEfU9dSME6GTi1W/XOJd/N2hJtFUpv/DGJATuVs6FGMToYgHF3mbA8gHVcoVv1RhV8AToaB6l3xdoROE1NWXpf/DFQMZfZd5mwPVIx1MHOJVyhOkoBUf1F1THaEWPCKiU5fZi+YznUfbDSNdzAC0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAuAD4AXV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdQgISIKIyQlJlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjI5MDIyMTYzMTUgMC4yOTAxNzUyODg5IDAuMjkwMjM3NDU2NgAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHWNgo3ODk6Ozw9PiQ9Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodIAAgA4jQDYAAAAAAACADNISCkBBoIAN0iwtQ0RXTlNBcnJheaJDMdIsLUZHXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjRkgxXxAQTlNQYXJhZ3JhcGhTdHlsZdIKSktMXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFoAQ0xESCk5RVKJPUIARgBKiUlOAE4AUgBVfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QEy5QaW5nRmFuZ1NDLVJlZ3VsYXLSLC1aW18QE05TTXV0YWJsZURpY3Rpb25hcnmjWlwxXE5TRGljdGlvbmFyedIsLV5fXxAQTlNGb250RGVzY3JpcHRvcqJgMV8QEE5TRm9udERlc2NyaXB0b3LSLC1cYqJcMdIsLWRlXxASTlNBdHRyaWJ1dGVkU3RyaW5nomYxXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WlqVHJvb3SAAQAIABEAGgAjAC0AMgA3AFMAWQBgAGkAcAB9AH8AgQCDAZ4BpQGtAbgBvAG+AcABwgHGAcgBygHMAc4B1gHpAgsCFAIaAicCPAJmAmgCagJsAnECdgJ4AnoCfwKKApMCoAKjArACuQK+AsYCyQLWAuEC8wMAAyIDNAM2AzgDQQNDA0gDSQNLA1ADWANbA2ADegN+A5EDlgOzA7UDtwO+A8EDwwPFA8gDygPMA84D5AP6BAMEGQQeBDQEOARFBEoEXQRgBHMEeAR7BIAElQSYBK0EvwTCBMcAAAAAAAACAQAAAAAAAABrAAAAAAAAAAAAAAAAAAAEyQ=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374566,
+            "green": 0.2901752889,
+            "red": 0.2902216315
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": ".PingFangSC-Regular",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
+          }
+        },
+        "length": 140,
+        "location": 0
+      }
+    ],
+    "string": "左氏是一家专门经营各类文一玩产品的从事文化传播的公司，左氏的老板也是互联网界的大咖，早在2003年就已经在百度营销方面有了业界响当当的地位。2005年左氏老板在新疆之旅中感受到了中国玉石的魅力，所以注册了“左氏”在国内开了自己的专卖店，同时左氏和田玉在互联网界的声誉也是风生水起。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "31C87080-EECE-4D0E-91CA-4ECA32B843F7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,7 +55,7 @@
     "y": 143
   },
   "glyphBounds": "{{0, 6}, {348, 100}}",
-  "heightIsClipped": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -42,24 +70,36 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2902374566,
+          "green": 0.2901752889,
+          "red": 0.2902216315
+        },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QEy5QaW5nRmFuZ1NDLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA6QDuAPkBAgEYARwBKQEyATcBSgFNAWABcgF1AXoAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABfA=="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": ".PingFangSC-Regular",
+            "size": 12
+          }
         },
-        "NSColor": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVHFUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzTxAnMC4yOTAyMjE2MzE1IDAuMjkwMTc1Mjg4OSAwLjI5MDIzNzQ1NjYAEAGAAoAE0hIMExRUTlNJRBABgAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIaG1xOU0NvbG9yU3BhY2VYTlNPYmplY3TSFhcdHldOU0NvbG9yoh0bXxAPTlNLZXllZEFyY2hpdmVy0SEiVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBMAFIAXwB0AHsApQCnAKkAqwCwALUAtwC5AL4AyQDSAN8A4gDvAPgA/QEFAQgBGgEdASIAAAAAAAACAQAAAAAAAAAjAAAAAAAAAAAAAAAAAAABJA=="
-        },
-        "NSParagraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBQYHlUkbnVsbNYJCgsMDQ4PEBESExFaTlNUYWJTdG9wc1YkY2xhc3NfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodIAAgAQjQDYAAAAAAACAAhAB0hUKFhdaTlMub2JqZWN0c6CAA9IZGhscWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIbHVhOU09iamVjdNIZGh8gXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjHyEdXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEkJVRyb290gAEACAARABoAIwAtADIANwA9AEMAUABbAGIAdACBAKMAtQC3ALkAwgDEAMYAywDWANcA2QDeAOkA8gD6AP0BBgELASUBKQE8AU4BUQFWAAAAAAAAAgEAAAAAAAAAJgAAAAAAAAAAAAAAAAAAAVg="
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

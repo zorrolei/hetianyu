@@ -4,7 +4,7 @@
   "name": "011 Dusty Grass Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -21,7 +21,6 @@
           "elipseLength": 0,
           "from": "{1, 0.75729400432673721}",
           "gradientType": 0,
-          "shouldSmoothenOpacity": false,
           "stops": [
             {
               "_class": "gradientStop",
@@ -57,6 +56,7 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "099750FD-268D-4BDA-8379-FE290AC670DA",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

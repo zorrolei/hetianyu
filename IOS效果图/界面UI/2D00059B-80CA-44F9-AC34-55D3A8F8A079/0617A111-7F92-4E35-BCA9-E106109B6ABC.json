@@ -1,12 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNT9CRUlNVVZXWFldYWNVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANvEDpd5mwPVIx1MHOJVyhlsHWGVIx1MF4CMAFOTJyBZyifUF4CkP1nCYu+ZwlUjHUwc4llNo0tWQT/DE7OYxZziU66YktOLXb0Y6WNLU5wTgBiS1Ofd/MwAmdcft1mtFKb/wx29GOli6lSKX7ZXn9ZJ3OJU8v/AdMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA+AF1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4yOTAyMjE2MzE1IDAuMjkwMTc1Mjg4OSAwLjI5MDIzNzQ1NjYAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1jYKNzg5Ojs8PT4kPVpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHSAAIAOI0A2AAAAAAAAgAzSEgpAQaCADdIsLUNEV05TQXJyYXmiQzHSLC1GR18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0ZIMV8QEE5TUGFyYWdyYXBoU3R5bGXSCkpLTF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBaAENMREgpOUVSiT1CAEYASolJTgBOAFIAVXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCgAAAAAAABfEBMuUGluZ0ZhbmdTQy1SZWd1bGFy0iwtWltfEBNOU011dGFibGVEaWN0aW9uYXJ5o1pcMVxOU0RpY3Rpb25hcnnSLC1eX18QEE5TRm9udERlc2NyaXB0b3KiYDFfEBBOU0ZvbnREZXNjcmlwdG9y0iwtXGKiXDHSLC1kZV8QEk5TQXR0cmlidXRlZFN0cmluZ6JmMV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFpalRyb290gAEACAARABoAIwAtADIANwBTAFkAYABpAHAAfQB/AIEAgwD6AQEBCQEUARgBGgEcAR4BIgEkASYBKAEqATIBRQFnAXABdgGDAZgBwgHEAcYByAHNAdIB1AHWAdsB5gHvAfwB/wIMAhUCGgIiAiUCMgI9Ak8CXAJ+ApACkgKUAp0CnwKkAqUCpwKsArQCtwK8AtYC2gLtAvIDDwMRAxMDGgMdAx8DIQMkAyYDKAMqA0ADVgNfA3UDegOQA5QDoQOmA7kDvAPPA9QD1wPcA/ED9AQJBBsEHgQjAAAAAAAAAgEAAAAAAAAAawAAAAAAAAAAAAAAAAAABCU="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374566,
+            "green": 0.2901752889,
+            "red": 0.2902216315
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": ".PingFangSC-Regular",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
+          }
+        },
+        "length": 58,
+        "location": 0
+      }
+    ],
+    "string": "左氏和田玉在新疆和田市、乌鲁木齐市都有设有和田玉收购处，从挖玉人手中直接购买一手原石。杜绝暴力，直接让利给广大玉友！"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "0617A111-7F92-4E35-BCA9-E106109B6ABC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,7 +55,7 @@
     "y": 1304
   },
   "glyphBounds": "{{0, 6}, {343, 56}}",
-  "heightIsClipped": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -42,24 +70,36 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2902374566,
+          "green": 0.2901752889,
+          "red": 0.2902216315
+        },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QEy5QaW5nRmFuZ1NDLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA6QDuAPkBAgEYARwBKQEyATcBSgFNAWABcgF1AXoAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABfA=="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": ".PingFangSC-Regular",
+            "size": 12
+          }
         },
-        "NSColor": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVHFUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzTxAnMC4yOTAyMjE2MzE1IDAuMjkwMTc1Mjg4OSAwLjI5MDIzNzQ1NjYAEAGAAoAE0hIMExRUTlNJRBABgAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIaG1xOU0NvbG9yU3BhY2VYTlNPYmplY3TSFhcdHldOU0NvbG9yoh0bXxAPTlNLZXllZEFyY2hpdmVy0SEiVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBMAFIAXwB0AHsApQCnAKkAqwCwALUAtwC5AL4AyQDSAN8A4gDvAPgA/QEFAQgBGgEdASIAAAAAAAACAQAAAAAAAAAjAAAAAAAAAAAAAAAAAAABJA=="
-        },
-        "NSParagraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBQYHlUkbnVsbNYJCgsMDQ4PEBESExFaTlNUYWJTdG9wc1YkY2xhc3NfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodIAAgAQjQDYAAAAAAACAAhAB0hUKFhdaTlMub2JqZWN0c6CAA9IZGhscWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIbHVhOU09iamVjdNIZGh8gXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjHyEdXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEkJVRyb290gAEACAARABoAIwAtADIANwA9AEMAUABbAGIAdACBAKMAtQC3ALkAwgDEAMYAywDWANcA2QDeAOkA8gD6AP0BBgELASUBKQE8AU4BUQFWAAAAAAAAAgEAAAAAAAAAJgAAAAAAAAAAAAAAAAAAAVg="
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

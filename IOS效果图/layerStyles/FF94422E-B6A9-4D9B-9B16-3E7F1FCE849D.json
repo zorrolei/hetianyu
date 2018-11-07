@@ -4,7 +4,7 @@
   "name": "027 Arielle's Smile Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -21,7 +21,6 @@
           "elipseLength": 0,
           "from": "{0.5, 0.5}",
           "gradientType": 1,
-          "shouldSmoothenOpacity": false,
           "stops": [
             {
               "_class": "gradientStop",
@@ -57,6 +56,7 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "FF94422E-B6A9-4D9B-9B16-3E7F1FCE849D",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

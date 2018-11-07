@@ -14,18 +14,31 @@
     "images": [
     ]
   },
+  "colorSpace": 0,
   "do_objectID": "12b51070-768a-11e7-bd8f-d7000e7db8ff",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
     "objects": [
     ]
   },
+  "meta": {
+    "appVersion": "51.2",
+    "build": 57519,
+    "version": 105
+  },
   "pages": [
     "应用市场截图",
     "界面UI"
-  ]
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }

@@ -1,12 +1,38 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGY2RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNTw/QkVJUVJTVFVZXV9VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANimZaYddMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA+AF1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC44MTE3NjQ3MDU5IDAuMTYwNzg0MzEzNyAwLjE4NDMxMzcyNTUAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1DY3OAo5OiQ7Wk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvboAAgAyADtISCj0+oIAN0iwtQEFXTlNBcnJheaJAMdIsLUNEXxAQTlNQYXJhZ3JhcGhTdHlsZaJDMdIKRkdIXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFoAQ0xESCkpNUKJLTIARgBKiTk+AE4AUgBVfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QElBpbmdGYW5nU0MtUmVndWxhctIsLVZXXxATTlNNdXRhYmxlRGljdGlvbmFyeaNWWDFcTlNEaWN0aW9uYXJ50iwtWltfEBBOU0ZvbnREZXNjcmlwdG9yolwxXxAQTlNGb250RGVzY3JpcHRvctIsLVheolgx0iwtYGFfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiYjFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRZWZUcm9vdIABAAgAEQAaACMALQAyADcAUwBZAGAAaQBwAH0AfwCBAIMAiACPAJcAogCmAKgAqgCsALAAsgC0ALYAuADAANMA9QD+AQQBEQEmAVABUgFUAVYBWwFgAWIBZAFpAXQBfQGKAY0BmgGjAagBsAGzAbwBxwHUAfYB+AH6AfwCAQICAgQCCQIRAhQCGQIsAi8CNAJRAlMCVQJcAl8CYQJjAmYCaAJqAmwCggKYAqECtgK7AtEC1QLiAucC+gL9AxADFQMYAx0DMgM1A0oDXANfA2QAAAAAAAACAQAAAAAAAABnAAAAAAAAAAAAAAAAAAADZg=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1843137255,
+            "green": 0.1607843137,
+            "red": 0.8117647059
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "PingFangSC-Regular",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 2,
+        "location": 0
+      }
+    ],
+    "string": "首页"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "88A75BEC-E371-436B-ADE0-08A5A43C871F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,7 +53,7 @@
     "y": 43
   },
   "glyphBounds": "{{0, 0}, {24, 15}}",
-  "heightIsClipped": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

@@ -4,7 +4,7 @@
   "name": "096 Healthy Water Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -21,7 +21,6 @@
           "elipseLength": 0,
           "from": "{0, 0.74011871995089795}",
           "gradientType": 0,
-          "shouldSmoothenOpacity": false,
           "stops": [
             {
               "_class": "gradientStop",
@@ -57,6 +56,7 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "8AFC1E5F-1CF2-46EA-8C9F-3A997CDD5EB0",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

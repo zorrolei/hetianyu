@@ -7,6 +7,7 @@
     "green": 0.9450980392156862,
     "red": 0.9450980392156862
   },
+  "booleanOperation": 0,
   "do_objectID": "BAA7DDA5-5EFB-472A-9ABA-8595F2D0DF0B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -44,8 +45,10 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -109,14 +112,21 @@
   ],
   "name": "左氏按钮弹-新手礼弹窗",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -136,11 +146,15 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.sketchplugins.wechat.selectionDom1": {
       "selection1": "9151A53F-65C4-4AB4-92BE-11CBBA515D34"
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

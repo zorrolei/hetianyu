@@ -20,7 +20,7 @@
         "thickness": 1
       }
     ],
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -29,7 +29,7 @@
           "alpha": 1,
           "blue": 0.02128248499226441,
           "green": 0.2628348214285715,
-          "red": 0.0004251983774688974
+          "red": 0.0004251983774688973
         },
         "fillType": 0,
         "isEnabled": true,
@@ -41,6 +41,7 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "05CEC80D-6679-410C-929C-24A5DE55F42E",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }
