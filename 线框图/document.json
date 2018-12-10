@@ -14,10 +14,13 @@
     "images": [
     ]
   },
+  "colorSpace": 0,
   "do_objectID": "b7598b00-768b-11e7-bd8f-d7000e7db8ff",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -25,12 +28,17 @@
     ]
   },
   "meta": {
-    "appVersion": "46.2.0",
-    "build": 43514,
-    "version": 92
+    "appVersion": "51.2",
+    "build": 57519,
+    "version": 105
   },
   "pages": [
     "Symbols",
     "线框图"
-  ]
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }
