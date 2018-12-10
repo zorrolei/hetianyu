@@ -8,6 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "380AD4D8-BD00-4A90-B2F2-1BDE627668D2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -37,6 +38,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -102,6 +104,15 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "EAD6526B-E6DB-4052-AB5B-EFC1F8869B5D"
+      ]
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

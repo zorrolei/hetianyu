@@ -8,6 +8,7 @@
     "red": 0.9450980392156862
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "D1DD15FC-0985-4B9D-AEDB-CD882A53961C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -37,6 +38,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -70,7 +72,7 @@
       "id": "5545E46C-07B5-47F0-BED2-A720FDDA2B97"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "35AA3CC5-B22E-447E-AFFB-B38D21F57A0A"
     },
     {
@@ -113,6 +115,7 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 19.2,
+      "saturation": 1,
       "type": 0
     },
     "endMarkerType": 0,
@@ -141,6 +144,13 @@
   "userInfo": {
     "com.sketchplugins.wechat.selectionDom1": {
       "selection1": "EA18388F-E293-4A27-8786-71BA03F9D112"
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "27E8A0BF-FE16-4F96-A687-7CA090FF5D16"
+      ]
     }
   },
   "verticalRulerData": {

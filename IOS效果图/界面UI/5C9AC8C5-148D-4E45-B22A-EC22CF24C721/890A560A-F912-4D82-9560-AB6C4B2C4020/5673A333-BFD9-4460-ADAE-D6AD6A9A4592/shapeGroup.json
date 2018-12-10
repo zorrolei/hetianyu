@@ -51,6 +51,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "099750FD-268D-4BDA-8379-FE290AC670DA",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -105,7 +106,6 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "099750FD-268D-4BDA-8379-FE290AC670DA",
     "startMarkerType": 0,
     "windingRule": 1
   },

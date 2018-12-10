@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E57890BC-A9A4-4E9C-ACEB-6D78D0C3DA58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C2524B37-399C-423A-9E96-3D83C3CF576B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "74A09040-C6B9-4FFD-AF65-BA7BDAE943B1",
+    "height": 1080,
+    "width": 1920,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D14BCA12-E6B5-4668-BDD7-6B4CBD5FDC76"
+    },
+    {
+      "class": "group",
+      "id": "B25AEC90-53B0-48EF-BBBC-AECF81B4B58E"
+    },
+    {
+      "class": "group",
+      "id": "9EF07ADA-10B9-4E02-A456-AC09931B6BF1"
+    }
+  ],
+  "name": "第三屏",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7FF61CE5-0C36-416D-B6FE-433B26CD97EF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "6BE58881-A3A6-494F-AAE6-E80862813FCC"
+    }
+  }
+}

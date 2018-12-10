@@ -8,6 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "CB6CE6C2-8316-42B5-BB61-62FADB8EFCE8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -37,6 +38,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -70,7 +72,7 @@
       "id": "C41F2CCE-4492-4D7A-98B7-C833E60108B2"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "2E8E6506-9BB6-467A-9AC4-2B663B2BFE27"
     },
     {
@@ -94,11 +96,11 @@
       "id": "29DFA2F0-B05A-48A6-A6CD-B0FF1F30A9EA"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "161BE02C-D61A-43C5-AD3B-FB01D04F1772"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "2DC45806-C3F6-4CD8-B070-7A380A650E91"
     },
     {
@@ -118,11 +120,11 @@
       "id": "98E81847-3D9A-4078-A21C-A56BB66BB06F"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "6179B0F0-60AB-4C66-A180-18D636124E39"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "15D34B8F-3824-4AF2-8B25-13F483DC3620"
     },
     {
@@ -169,6 +171,15 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "0F038023-03F5-4382-B5CA-917E67427CF7"
+      ]
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

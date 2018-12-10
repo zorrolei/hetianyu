@@ -1,0 +1,106 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "352A979B-AF33-4904-BDE6-BD6D2EAD870C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2DFF3709-3E29-400E-85B2-AA09D0B52115",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "71C4E8DB-D976-4068-9FBC-17C039FE8D3D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "381D52C2-93DB-459B-9548-366608655E6F",
+    "height": 400,
+    "width": 240,
+    "x": 1629,
+    "y": 1060
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EDD1C73A-2DD5-4BA0-A24D-C1F5C30B13A6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E579FE58-0DFD-483D-9B49-7FEF24C71506"
+    },
+    {
+      "class": "text",
+      "id": "8A8955A7-9C9E-45A7-ACEB-D39A8104A034"
+    },
+    {
+      "class": "group",
+      "id": "8E41742A-764F-482E-A840-FE6051FD5B86"
+    }
+  ],
+  "name": "Artboard/480×800",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4620274-2E02-46D3-9832-1F1554E8D962",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "D9C683D6-1BA5-4EC0-9E68-1767C84DC888"
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8BAE7939-8CD9-40D1-9172-FFF6C4D0549F",
+    "guides": [
+    ]
+  }
+}

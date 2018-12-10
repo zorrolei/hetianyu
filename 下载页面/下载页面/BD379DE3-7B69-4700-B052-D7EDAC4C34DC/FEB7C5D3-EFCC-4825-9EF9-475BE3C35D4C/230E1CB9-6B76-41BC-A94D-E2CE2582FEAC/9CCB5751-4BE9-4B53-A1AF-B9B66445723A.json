@@ -1,6 +1,8 @@
 {
   "_class": "bitmap",
+  "booleanOperation": 0,
   "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
   "do_objectID": "9CCB5751-4BE9-4B53-A1AF-B9B66445723A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -20,11 +22,14 @@
     "x": 338,
     "y": 1162
   },
+  "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/691539707de4918e582e45df66dda8fee359b150",
+    "_ref": "images/691539707de4918e582e45df66dda8fee359b150.png",
     "_ref_class": "MSImageData"
   },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -32,8 +37,6 @@
   "layerListExpandedType": 0,
   "name": "Bitmap Copy",
   "nameIsFixed": false,
-  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
-  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -45,9 +48,10 @@
       "blendMode": 0,
       "opacity": 0.300000011920929
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.sketchplugins.wechat.selectionDom1": {

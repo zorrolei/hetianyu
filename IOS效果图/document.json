@@ -28,13 +28,15 @@
     ]
   },
   "meta": {
-    "appVersion": "51.2",
-    "build": 57519,
-    "version": 105
+    "appVersion": "52.5",
+    "build": 67469,
+    "version": 112
   },
   "pages": [
     "应用市场截图",
-    "界面UI"
+    "界面UI",
+    "app包装",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {

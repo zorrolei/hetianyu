@@ -1,0 +1,149 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5662EEF3-9B74-4A13-A6B8-5446FBBF2C30",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103.0286515300337,
+    "width": 46.86834871113145,
+    "x": 0,
+    "y": 128
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Shape",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.99690039304656675, 0.51939737089432181}",
+      "curveMode": 1,
+      "curveTo": "{0.99690039304656675, 0.51939737089432181}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99690039304656675, 0.51939737089432181}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.15097019455453528, 1.0000000000000009}",
+      "curveMode": 1,
+      "curveTo": "{0.15097019455453528, 1.0000000000000009}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.15097019455453528, 1.0000000000000009}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.90262425453675121}",
+      "curveMode": 1,
+      "curveTo": "{0, 0.90262425453675121}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0.90262425453675121}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.68936196143596673, 0.51098357168788322}",
+      "curveMode": 1,
+      "curveTo": "{0.68936196143596673, 0.51098357168788322}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.68936196143596673, 0.51098357168788322}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.047790197038908452, 0.090643853150070411}",
+      "curveMode": 1,
+      "curveTo": "{0.047790197038908452, 0.090643853150070411}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.047790197038908452, 0.090643853150070411}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.20985803917340659, 0}",
+      "curveMode": 1,
+      "curveTo": "{0.20985803917340659, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.20985803917340659, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.999899218828734, 0.51767015113706005}",
+      "curveMode": 1,
+      "curveTo": "{0.999899218828734, 0.51767015113706005}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.999899218828734, 0.51767015113706005}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "793E2474-5A1B-4C26-A120-1FF4A84F7317"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "793E2474-5A1B-4C26-A120-1FF4A84F7317"
+    }
+  }
+}

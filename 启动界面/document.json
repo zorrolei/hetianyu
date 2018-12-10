@@ -14,10 +14,13 @@
     "images": [
     ]
   },
+  "colorSpace": 0,
   "do_objectID": "040d9460-768b-11e7-bd8f-d7000e7db8ff",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -25,11 +28,16 @@
     ]
   },
   "meta": {
-    "appVersion": "46.2.0",
-    "build": 43514,
-    "version": 92
+    "appVersion": "52.5",
+    "build": 67469,
+    "version": 112
   },
   "pages": [
     "启动界面"
-  ]
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }

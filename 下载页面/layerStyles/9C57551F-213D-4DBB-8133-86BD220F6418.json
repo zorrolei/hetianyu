@@ -10,9 +10,10 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 18.91304347826087,
+      "saturation": 1,
       "type": 0
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -29,7 +30,6 @@
           "elipseLength": 1,
           "from": "{0.5, 0}",
           "gradientType": 0,
-          "shouldSmoothenOpacity": false,
           "stops": [
             {
               "_class": "gradientStop",
@@ -64,7 +64,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "9C57551F-213D-4DBB-8133-86BD220F6418",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

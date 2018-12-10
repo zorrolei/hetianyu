@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "27A07E58-E68E-4B61-9D7C-5DC085B627FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DEB49750-5D73-40E0-A59A-3574FC6F51B0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC8E7341-A566-41C7-AEEF-232E71445B71",
+    "height": 792.2366628830863,
+    "width": 529.4511627906984,
+    "x": 26.99162790697675,
+    "y": 5.536889897843353
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DAE821C9-41DA-44D8-A8C3-DA74CA3C74F1"
+    }
+  ],
+  "name": "Glass",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4DA96517-4304-4D50-8036-2AABE318EDDE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

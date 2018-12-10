@@ -8,6 +8,7 @@
     "red": 0.9450980392156862
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "716C6A33-B3A5-4F63-8932-515525F5A8A6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -37,6 +38,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -116,6 +118,10 @@
   "userInfo": {
     "com.sketchplugins.wechat.selectionDom1": {
       "selection1": "5ED67613-1D71-4312-BD05-3A81BAE064FB"
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1
     }
   },
   "verticalRulerData": {

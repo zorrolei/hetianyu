@@ -1,0 +1,59 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "31C91F8E-246F-4B1E-ACBF-305C50BA3BC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C6A4B5A-1E2C-455D-ABFB-52AF2A626FF4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0CF5CCE3-E72E-4831-913C-24439593F251",
+    "height": 1080,
+    "width": 1972.978116079924,
+    "x": -22.91825251891112,
+    "y": 397
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/d435d3776fd1761f9114bfb74146d97b44701870.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bitmap",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53BA14C5-5AEC-402F-9D82-F6BE41720A94",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "200F8292-F9BB-4C02-A60D-9CDE1E0EA185"
+    }
+  }
+}

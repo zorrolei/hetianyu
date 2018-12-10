@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "25FC5574-6ABC-4028-A0F5-093D611800C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7CBF4E5-A201-4234-95D6-723DAF4C0800",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7FFD14F2-DE5C-4CFD-86E7-87C84BC9A09C",
+    "height": 35,
+    "width": 30,
+    "x": 19,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6FB3BF3D-8199-45D6-BEF4-13DC03DE24FA"
+    }
+  ],
+  "name": "苹果",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "499A51C4-0749-4A50-BC66-20D5FEC3AC8C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9EF07ADA-10B9-4E02-A456-AC09931B6BF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CAFF586B-B989-4D17-AFAB-F64AA49099F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF31882E-7F68-4A9D-9CA0-3AF91C3FEF98",
+    "height": 86,
+    "width": 556,
+    "x": 682,
+    "y": 758
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "589FB9E3-2671-4A9E-B6A5-AEADFAE585DF"
+    },
+    {
+      "class": "text",
+      "id": "AEC68436-42F8-496A-BA67-F7B830229858"
+    }
+  ],
+  "name": "Group 11",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B77511A-610D-4F60-AA38-03B6AE221416",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "758913B5-F42E-4DED-B7E1-5420AAFE9C9A"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "758913B5-F42E-4DED-B7E1-5420AAFE9C9A"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9CEC2400-A09F-4A77-A8DF-153C9C455B22",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9AFA7D6F-F5F2-4E57-A68C-89DD65A70D3D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ECD70970-0618-4FA2-AE4C-7E8365908942",
+    "height": 103.515625,
+    "width": 99.609375,
+    "x": 0,
+    "y": 3.125
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2479DED4-F11A-4993-BC78-00E257DBDEC3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "047E24EF-04BE-4FF7-BC93-770FB08616CD"
+    }
+  ],
+  "name": "祥云",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D2A9C73C-C7FD-418F-A0E8-2C382C179570",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.34375,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "4CDFD2ED-2DE0-41D4-AC37-44B0489AEEBB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,6 +1,7 @@
 {
   "_class": "page",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "496DBB35-7E64-4D93-815D-69A66F75E10C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -20,6 +21,7 @@
     "y": 0
   },
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -851,
@@ -34,6 +36,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "2DFF3709-3E29-400E-85B2-AA09D0B52115"
+    },
     {
       "class": "artboard",
       "id": "D536080A-F629-4C65-80E0-611BCA9182E0"

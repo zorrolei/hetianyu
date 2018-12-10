@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D14BCA12-E6B5-4668-BDD7-6B4CBD5FDC76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4EFDA73A-D817-4BA9-A1BE-30FC6B939E56",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DAD18064-8DA1-4E81-A7A1-C9C52A35DBB0",
+    "height": 1080,
+    "width": 1920,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D2FBBA94-2660-49BC-8D0B-A03194DE0EE7"
+    },
+    {
+      "class": "bitmap",
+      "id": "B343DC82-0C33-4CC9-AC71-B7028B260807"
+    },
+    {
+      "class": "bitmap",
+      "id": "04954B4D-2780-48F2-AFB9-34D306368558"
+    },
+    {
+      "class": "bitmap",
+      "id": "0EC862DE-DCF1-4460-BBEF-613D913DE913"
+    },
+    {
+      "class": "group",
+      "id": "CA917076-8BEC-4EB6-897C-15071FB75562"
+    },
+    {
+      "class": "slice",
+      "id": "1C4016D6-3BD8-4F88-A455-B5F39760024B"
+    }
+  ],
+  "name": "DSC_6211",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E90F554C-76D2-4154-A3A0-B76C7D3C92C1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "F6C271A0-699A-439B-BB06-21534FE04DD5"
+    }
+  }
+}

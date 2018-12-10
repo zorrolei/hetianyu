@@ -8,6 +8,7 @@
     "red": 0.9450980392156862
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "B2509002-B766-4A3B-8030-C843DF19D512",
   "exportOptions": {
     "_class": "exportOptions",
@@ -36,7 +37,8 @@
     "y": 541
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,10 +53,10 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "70705D63-176F-44BA-AD9F-AAED9CD166D9"
     },
     {
@@ -62,11 +64,11 @@
       "id": "2860F886-E127-4785-BC44-97A17B4F5480"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "861D4BEB-9479-4978-B1FB-1D088A83C885"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "B52233A6-9926-447B-BB08-48D06D73567C"
     },
     {
@@ -78,15 +80,11 @@
       "id": "30A3FFBB-22FF-4CD7-BCE4-97D04FFB8DF9"
     },
     {
-      "class": "bitmap",
-      "id": "B8EF335D-7802-4733-B1A7-CD23426968B7"
-    },
-    {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "9E36FE17-16F0-4D2D-917F-ECBE09E171F0"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "50EBBD86-F910-4B2F-A0C1-3302857EC56B"
     },
     {
@@ -98,7 +96,7 @@
       "id": "730C27C9-5EB1-43DD-94C5-39A8B7C73A9F"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "94273271-25C3-4399-838B-10D4F93ACF40"
     },
     {
@@ -108,6 +106,10 @@
     {
       "class": "group",
       "id": "6DC5D8A8-DAD4-4D88-A7D0-D9D0246391C4"
+    },
+    {
+      "class": "group",
+      "id": "0EF25A49-BA8A-41D1-9157-E08ABB77D815"
     }
   ],
   "name": "登录界面",
@@ -148,6 +150,15 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1,
+      "included": 1,
+      "linkedLayers": [
+        "F1F2A465-C8D2-4A7B-9517-9654F72D3701"
+      ]
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

@@ -43,6 +43,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "05CEC80D-6679-410C-929C-24A5DE55F42E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -52,6 +53,7 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 19.1904047976012,
+      "saturation": 1,
       "type": 0
     },
     "borders": [
@@ -90,7 +92,6 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "05CEC80D-6679-410C-929C-24A5DE55F42E",
     "startMarkerType": 0,
     "windingRule": 0
   },

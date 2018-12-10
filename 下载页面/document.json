@@ -14,10 +14,13 @@
     "images": [
     ]
   },
+  "colorSpace": 0,
   "do_objectID": "28907ce0-76b7-11e7-9a82-61779003e8a8",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -25,12 +28,17 @@
     ]
   },
   "meta": {
-    "appVersion": "46.2.0",
-    "build": 43514,
-    "version": 92
+    "appVersion": "52.5",
+    "build": 67469,
+    "version": 112
   },
   "pages": [
     "下载页面",
     "应用市场详情"
-  ]
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }

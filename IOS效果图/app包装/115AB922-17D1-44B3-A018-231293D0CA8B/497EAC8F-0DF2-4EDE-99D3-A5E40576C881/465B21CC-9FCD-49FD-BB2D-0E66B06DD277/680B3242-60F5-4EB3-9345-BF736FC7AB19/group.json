@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "680B3242-60F5-4EB3-9345-BF736FC7AB19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6927D272-DEC0-4F5B-A744-78262DEE4514",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B22A7C1A-9D0F-4BC1-9E96-0486FB79E19C",
+    "height": 39.68104426787841,
+    "width": 254.3441860465109,
+    "x": 277.7023255813955,
+    "y": 778.3944381384781
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5BC0013D-D3DE-42E0-BE16-7552865DFCA9"
+    },
+    {
+      "class": "group",
+      "id": "ADED1724-34DA-4D2A-B176-65C7C157666D"
+    }
+  ],
+  "name": "Built-in stereo speaker/microphon‌e",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4F1A79A1-F5DD-445A-9C28-0BBCE1EA8835",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
